@@ -59,11 +59,11 @@ During the Ideation, Playthrough, and Prose Pass phases, releases will consist o
 Content created during the Narrative Pass may or may not be released to the public at all, due to the nature of its development.  However, the final product will always be released to the public.
 
 So here is how the release process works:
-*Snippets of early content are released* </br>
-> *Chapter is released* </br>
->> *Once all Chapters are complete, a Collection is released* </br>
->>> *Once both Collections are complete, the Volume is released* </br>
->>>> *Once all Volumes are complete, the final IP compilation or Omnibus is released*
+>*Snippets of early content are released* </br>
+>> *Chapter is released* </br>
+>>> *Once all Chapters are complete, a Collection is released* </br>
+>>>> *Once both Collections are complete, the Volume is released* </br>
+>>>>> *Once all Volumes are complete, the final IP compilation or Omnibus is released*
 
 ## So How Can I Contribute?
 > [!NOTE]
