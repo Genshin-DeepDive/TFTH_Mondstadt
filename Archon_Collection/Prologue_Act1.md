@@ -1,3 +1,5 @@
+# Prologue: Act 1 - The Outlander Who Caught the Wind
+
 Created by u/Genshin_DeepDive
 Created on 2026/1/11
 
