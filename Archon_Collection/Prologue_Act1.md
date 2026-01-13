@@ -3,7 +3,7 @@
 Created on 2026/1/11</sub>
 
 ### CURRENT SNIPPET/UPDATE
-[00002](https://drive.google.com/file/d/1JQSM1GEtvJLeI5-xJyvKIRZFtCfwifH2/view?usp=sharing) as of 2026/1/11
+[00003](https://www.reddit.com/r/TalesFromTheHoyoverse/comments/1qbfbgp/update_3_sleepy_fuzzy_brain_and_first_prose_pass/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) as of 2026/1/12
 
 ## Intro
 Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
