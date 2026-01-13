@@ -6,25 +6,26 @@ Created on 2026/1/11</sub>
 [00002](https://drive.google.com/file/d/1JQSM1GEtvJLeI5-xJyvKIRZFtCfwifH2/view?usp=sharing) as of 2026/1/11
 
 ## Intro
-- Cutscene
-- Dialog from Paimon
-- The two stars flying over Teyvat
-- The twins arrive in “a space”
-- The Sustainer of Heavenly Principles arrives
-- Dialog
-- They fight
-- Sibling loses and is captured
-- Aether fights back
-- Sustainer “captures” Aether and sends them somewhere unknown
-- Text black screen
-- Aether tells his tale of woe to Paimon
-- The two depart
+Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
 
-## Wanderer’s Trail
-  The god took away your only kin, and you were sealed and cast into a deep slumber.
-  Upon your awakening, you wandered alone for a time until you met a strange companion named Paimon, thus beginning your journey through the continent of Teyvat.
-  
-  - Traveler departs the beach and climbs up to the path.
+Aether and Lumine had stepped foot onto a Celestial platform.  A rift in the sky was torn open, revealing Asmoday.  Asmoday stepped through the rift confidently, and condescendingly stated, “Outlanders, your journey ends here.” Lumine’s eyes widened, revealing no recognition of the person before her; she asked, “Who're you!?”  Asmoday responded, “The Sustainer of Heavenly Principles. The arrogation of mankind ends now.”
+Asmoday then summoned a red, wiggling cube into her hands before summoning a larger version beneath the Twins’ feet, narrowly missing them, with Aether jumping away first, and Lumine not far behind.  Both twins summoned sets of wings and a suitable sword, brandishing them before charging toward Asmoday simultaneously.  Asmoday calmly responded with an attack consisting of waves of red cubes similar to the one she had palmed just before, lashing out at the Twins as they closed the distance between them and her.
+
+Aether and Lumine twisted and twirled through the air, dodging each chain of attacks narrowly, unable to get much closer.  Finally, the two united side by side and plunged towards Asmoday with an air of finality.  Asmoday, unfortunately, was ready, holding both in place as though chained still.  Asmoday’s eyes narrowed, and she glanced momentarily at Aether before pushing him back.  Aether watched helplessly as his sibling was overwhelmed by a wave of red cubes.
+
+“Lumine!” he shouted, instantly leaping towards Asmoday’s blind spot.  He was barely able to draw back his weapon before Asmoday vanished the cube containing Lumine into the seemingly infinite space within her closed fist.  Aether’s blow met Asmoday’s head, throwing a crimson splash of fire through the sky.  Aether panted with exertion, cautious but optimistic that his strike had done damage.  Yet, as the fireball diminished, revealed behind the embers was a confident and calm Asmoday, arm outstretched, ready to capture once more.  With seemingly no effort she reached out, and pulled Aether into the wave of red cubes stretching from her hand.  As he was consumed, he shouted “Wait! Don't go! Give my sister back!”
+
+> “And just like that, the god took away my sister.  Some kind of seal was cast upon me, and I lost my power. So while we used to travel from world to world, we are now trapped here.”
+
+Aether looked up from his sand illustrations of the sad tale, shaking his head before putting the drawing stick down.  “How many years ago was it? I don't know…” he stated, clenching hist fist, “but I intend to find out.  When I woke, I was all alone — until I met you two months ago...‍”  Aether stole a glance at his traveling companion, Paimon.
+
+Paimon tilted her head sheepishly, avoiding the eye contact and muttering, “Yeah, Paimon really owes you for that. Otherwise Paimon likely would have drowned…” she recalled, grimacing at the thought of being pulled out of the water by Aether’s fishing rod.  “So, Paimon will do her best to be a great guide!” she stated confidently, placing her hands on her hips and nodding.  “We should head off. Let's get going!”  With that, Paimon twirled around once, waving her hand in the air for Aether to follow her, and flew off towards the end of the beach, beneath the cliffs.
+
+Aether rose from the rock he had been sitting on, wiping away the sand drawings with his foot as he did.  He stretched once before dashing off to follow Paimon.  After a brief jog along the wet sand, Aether and Paimon reached a small trail with a relatively daunting cliff at its end.  Paimon, able to fly, dashed up to the top with ease.
+
+“The path ends here – guess we’ll just have to climb.”  Aether shrugged at the use of the phrase “we’ll have to climb”, and began ascending the cliff, hand over foot, reaching the top with minimal effort.  Before walking further, he turned to look once more at the beach he had just left.  It was for the best that he get his journey underway; this cliff was only the first obstacle he would need to overcome, and from the perspective he had now, it wasn’t even that significant of one.
+
+“Okay, let’s take the route we planned!  We’re off to…” Paimon paused dramatically, before gesturing with open arms towards the opening between the two mountain mountains leaning over either side of the continuing trail.  “A Statue of The Seven!”  She paused to smile smugly, before a brief moment of confusion crossed her face.  “Which of The Seven are you looking for, exactly?”
 
 # The Outlander Who Caught the Wind
 ## Bird’s Eye View
