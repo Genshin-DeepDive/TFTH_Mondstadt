@@ -27,16 +27,23 @@ Aether rose from the rock he had been sitting on, wiping away the sand drawings 
 
 “Okay, let’s take the route we planned!  We’re off to…” Paimon paused dramatically, before gesturing with open arms towards the opening between the two mountain mountains leaning over either side of the continuing trail.  “A Statue of The Seven!”  She paused to smile smugly, before a brief moment of confusion crossed her face.  “Which of The Seven are you looking for, exactly?”
 
-# The Outlander Who Caught the Wind
-## Bird’s Eye View
-You begin your journey in Starfell Valley, exploring the land and seeing its sights together with Paimon.
-- Collects fruit
-- Sees environment (Starfell Valley canyon leading to beach)
-- Cutscene: intro to Starfell Valley, Mondstadt City, and Statue of Seven
-- Dialog
-- Wander down to So7 with P, encounter first wildlife and berries
-- First time swimming (possibly)
-- Cutscene: obtaining Anemo from So7 (describe sounds and Anemo powers moving)
+## The Outlander Who Caught the Wind
+### Bird’s Eye View
+So began Aether’s journey, from a quiet beach in Starfell Valley.  Paimon floated to the highest point on the gentle ridge the two had just crested, from which she could see the entirety of Starfell Valley, with a great city of windmills and great spires glistening in the distant haze next to a lake.  “Oh wow,” she sighed, admiring the scenery.  Aether slowed to a walk before stopping at the ledge to take in the view himself.  A red beam of light rose from a distant stone pillar.  Paimon pointed to it and said, “That's a Statue of The Seven!  There are a few of these statues scattered across the land to show The Seven's protection over the world.”
+
+Paimon paused before continuing, “Among the seven gods, this god controls the wind.  Paimon's not sure whether the god you're looking for is the Anemo God, but Paimon'll take you to the Anemo God's place first, and there's a reason why!” She paused teasingly before spinning around and floating down the cliffside trail.
+
+Aether pulled his gaze away from the sweeping green vista, and began strolling down the path behind Paimon.  As he walked, Paimon posed her theories to him.
+
+“As we all know, poetry and language flow like the wind.”  Paimon nods toward the slowly growing walls of the city, “There will definitely be someone there who knows about your sister. At least, that's what Paimon thinks!  Whether the gods actually answer you is a different story, but you never know unless you try, so let's hop to it!”
+
+A few moments later, the surrounding cliffs peeled away to reveal a small pond with a gently sloped island in its center.  On this island rested the gray stone pillar Aether had seen earlier.  On closer inspection he realized, as Paimon had pointed out, that it was indeed a statue: one of what appeared to be a young winged person, holding a small orb in their outstretched hands.  Aether caught himself staring while standing at the edge of the pond, and Paimon quickly interrupted his thoughts.
+
+“You can swim right over!”  Aether nodded before wading into the relatively shallow waters, eventually easing himself into the water as he swam to the easily-reachable island’s shore.  Moments later, skipping out of the water and trying to shake himself a bit drier, he joined Paimon in staring up at the Statue of Seven.
+
+After a few moments of thought, Aether stepped forward, extending his hand towards the emblazoned gold embellishment on the statue’s base.  He had barely held his hand there for more than a few heartbeats when a shot of light and wind swirled up the statue, ending in the orb held in the diminutive figure’s hands.  Aether backed away from the statue uneasily as a small sphere of light, wind, and song descended from the statue before diving straight towards him.
+
+Holding his hands out, it seemed like nothing ill had happened to him; but all the same he felt stronger, as though he had been blessed with just a little bit more determination, and strength to match.
 
 ## Unexpected Power
 - Dialog
