@@ -47,12 +47,24 @@ After a few moments of thought, Aether stepped forward, extending his hand towar
 Holding his hands out, it seemed like nothing ill had happened to him; but all the same he felt stronger, as though he had been blessed with just a little bit more determination, and strength to match.
 
 ## Unexpected Power
-- Dialog
-- First combat: pyro slimes
-- Achieve: “Let the Wind Lead” Obtain the power of Anemo.
-- Swim to land W of So7
-- Broken wagon on path, Mondstadt City in distance
-- Jump down
+Paimon flew over excitedly.  “Ooh! Did you just feel the elements of the world?” she asked, gleefully waving her hands.  Her smiling face was immediately erased by a moment of confusion, and her brow furrowed as she seemed deep in thought.
+
+“Seems all you had to do was just touch the statue and you got the power of Anemo!  As much as they may want it, people in this world can never get a hold of powers as easily as you…”
+Aether paused to think for a moment before answering.  “I think I know why, it's because-”
+
+“Ah-ha, it's because you're not from this world to begin with!” Paimon excitedly interrupted, all former concern immediately vanishing from her face.  Before Aether could squeeze in another thought or even contemplate the meaning of her vague excitement, Paimon continued.  “If we keep heading west from here, we'll eventually reach Mondstadt, the City of Freedom.  Mondstadt is the city of wind, because they worship the God of Anemo.”  Aether’s eyes followed Paimon’s outstretched arm and pointing finger to the spires and windmills of the grand city he had seen from the cliff top earlier.  Almost as if to emphasize Mondstadt’s connection to wind, the five great arms of the nearest towering windmill began to slowly turn in response to a leisurely passing breeze.
+
+“So perhaps, because you got power from the God of Anemo, you can find some clues there.”  Paimon paused to collect her thoughts, gazing at her dangling feet before glancing up as though she had suddenly remember something important.  “There are also lots of bards there, so perhaps one of them has heard news of your sister.  Let's move then!  The elements in this world responded to your prayers and Paimon thinks that's a lovely sign.”
+
+Aether wasn’t so sure that a bard would know anything about an unknown god, the heavens, or Lumine- anything factual, at least.  Weren’t they simply performers, entertainers, poets, and (more often than not) charlatans?  Despite his doubts, he turned to depart the island on which sat the Statue of Seven.
+
+Something was behind him.  Without so much more than a gentle blurp, like a droplet landing in a bathtub, a tiny little globule of orange flame and what appeared to be liquid innards appeared behind Aether.  Aether spun, attempting to summon the trusty sword he always kept with him for such emergencies.  To his shock, his formerly devastatingly-sharp, almost divine blade had been replaced with what appeared to be a lifeless, stone weapon.  No, not stone, but certainly not lethally razor-thin steel, either… a dull sword, in the hands of The Traveler.
+
+Aether wouldn’t give himself time to contemplate the irony or the shame, and instead leapt towards the rather harmless-looking Pyro Slime.  As he outstretched his empty hand to steady his plunge, he felt what was almost an adrenaline rush, making its way from his chest to his fingers.  Moments later, a fierce gust of wind blew from his palm and fingertips, throwing the petite little pyro blob meters away into the water of the surrounding Starfell Lake.  With a burst of steam and smoke, the Pyro Slime was no more.
+
+Paimon’s eyes grew wide, and then so too did her smile as she clapped her little hands.  She nodded approvingly.  “These are the Anemo powers you got from the Statue of The Seven.  Aw, Paimon's so jealous! Why doesn't Paimon get cool fighting powers!?”
+
+Aether grinned, before diving into Starfell Lake to make his way towards the nearby road towards Mondstadt.
 
 ## Forest Rendezvous
 Unexpectedly, the power of Anemo within the Statue of The Seven resonated with you.You decided to begin your investigation with the Anemo Archon of Teyvat’s Seven Archons.  As such, the first order of the day is to reach the land under the Anemo Archon’s protection: Mondstadt.
