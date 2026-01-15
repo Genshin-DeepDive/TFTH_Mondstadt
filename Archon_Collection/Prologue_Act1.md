@@ -1,7 +1,7 @@
 # Prologue: Act 1 - The Outlander Who Caught the Wind
 <sub>Created by [u/Genshin_DeepDive](https://www.reddit.com/user/Genshin_DeepDive/)</br>
 Created on 2026/1/11</br>
-Updated on 2026/1/13</sub>
+Updated on 2026/1/14</sub>
 
 ### CURRENT SNIPPET/UPDATE
 [00004](https://drive.google.com/file/d/1_nGm-a4HgXUwX6__ynIqvXl9-qoa7jeh/view?usp=sharing) as of 2026/1/13
@@ -67,23 +67,48 @@ Paimon’s eyes grew wide, and then so too did her smile as she clapped her litt
 Aether grinned, before diving into Starfell Lake to make his way towards the nearby road towards Mondstadt.
 
 ## Forest Rendezvous
-Unexpectedly, the power of Anemo within the Statue of The Seven resonated with you.You decided to begin your investigation with the Anemo Archon of Teyvat’s Seven Archons.  As such, the first order of the day is to reach the land under the Anemo Archon’s protection: Mondstadt.
-- Durin flies over, appears to land in forest
-- First time getting energy
-- Enter the Whispering Woods on the secluded path
-- Cutscene
-- We hide
-- Spot Durin and Venti
-- Anemo failure moment?
-- Durin angry
-- Venti disappears
-- Durin roars and flies away intimidatingly
-- At some point, Paimon grabs hair
-- Commentary on existence of “dragons”
-- Dvalin tear spotted
-- Climb rocks
-- Dialog
-- Paimon “magics away” the tear into her inventory
+Aether rose from the chilly lakewater, wringing his long ponytail to get the water out.  He was still trying to squeeze the water from his hair when the ground beneath him suddenly darkened and a strong gust brought back the chill.  He glanced towards the road ahead of him and saw a gargantuan birdlike shadow whisk across the road, headed towards the hills to the south.  Paimon shrieked loud enough to express both their surprise.
+
+“Wow! What is that!?  There's something huge, in the sky!”  Aether shot a look straight up just in time to catch an aquamarine blur racing towards the distant treeline with an ear-rending, screeching roar.  “It's headed towards the heart of the forest. We must proceed with caution.”
+
+Aether let his ponytail drop free, shaking the last remnants of water from his wispy blonde bangs.  He nodded towards the nearby forest and departed with a jog, Paimon floating close behind.  They had barely gone a hundred meters down the path when they passed what appeared to be a smashed-up wagon.  Aether slowed to investigate, but found nothing more than a fortnight’s worth of dust and debris and moldy, rotting wood.  Still, the sight of it after having seen the sky-borne monster twisted his insides uncomfortably.
+
+As Paimon and Aether reached the edge of what locals call the Whispering Woods—screeching turquoise behemoths notwithstanding—he slowed his pace, his cautious gaze wandering the narrowing rocky walls that were slowly closing in around the two traveling companions.  Paimon then broke the silence with what she probably thought was a whisper, but really amounted to more of a raspy gasp.
+
+“Huh? Look at that!”  Aether instinctively lowered his stance and speedily took cover in the shade of the nearest stout oak trunk.  He recalled the monstrous blur they had seen pass overhead only minutes ago, and as he peered around the wide oak trunk, his eyes widened to take in the sight of a gargantuan blue dragon straddling one of the smaller rock abutments.
+
+The dragon was both magnificent and simultaneously terrifying.  Multiple stiffly-plumed blue wings with aquatic blue gradient joined to a lithe muscular body, which terminated in an almost feather-like tail.  Analogies to a bird be damned, this dragon was certainly no light, tweeting songbird, Aether thought.
+
+Standing before the dragon’s blazing blue eyes and razor-sharp snout was a young person, clothed in forest-green garb that almost served to camouflage them against the canopied green background.  Their white-sleeved arms were outstretched, as if offering to the dragon.  The dragon chuffed loudly, and the verdant figure spoke, with a delicate, lilting manner.
+
+“Don't be afraid.  It's alright now, I'm back.”
+
+Paimon’s face was crossed with a sharp look of confusion.  “Is he talking... to a dragon?”  It was at this moment that Aether felt a breeze stirring from within, as though his heart had taken flight at seeing the mismatched pair before him.  The breeze surged, and a nearly audible gasp escaped his mouth.  Well, he thought it wasn’t quite audible, but…
+
+“Who's there!?”  The short but lithe figure spun instantly and shouted into the forest towards Aether and Paimon, as the dragon roared in displeasure.  Within a moment, the dragon had raised its wings and beaten the air fiercely, rising off of the ground; a heartbeat later, and an extraordinarily sharp talon came racing towards the young boy’s face.  The talon swiped at the air harmlessly as the boy leapt back gracefully, before once again turning to face the unknown presence that he and the dragon must have sensed.
+
+As the dragon roared once more with a throaty, territorial rage, the boy backed away from both the dragon and the path, vanishing into the breeze as though he were nothing but a wisp of mist.  Upon sighting Paimon and the Traveler stood next to the oak tree, the dragon thrust its wings downwards once more, and rocketed overhead and into the sky.  A gale of enormous strength swept towards the two traveling companions, sending Paimon tumbling head-over-headpiece and forcing her to grab blindly for something sturdy.  All her tiny hands managed to find was Aether’s ponytail, making him wince in pain.
+
+As quickly as it had developed, the windstorm ceased and the violent sound of the tumultuous forest once more calmed into the gentle swish of playful eddies through the branches.  Paimon held her hand to her chest, trying to calm her heart while also trying to avoid clinging to Aether’s hair awkwardly now that the surge of wind had passed.
+
+“That was close! Paimon almost got blown away!  Luckily Paimon managed to grab hold of your hair! Thanks.”
+
+“Good thing you didn’t pull my hair out,” Aether quipped, patting his skull gingerly where his pulled hair had stung him a bit.  “It’s also a good thing that the dragon didn’t notice us.”
+
+“Just what was that? Paimon thought we were gonna get eaten.”  Paimon spun in all directions, trying to acquire sight of the giant enemy they had apparently made in the forest glade.  “It definitely has something to do with that weirdo who was talking to the dragon, doesn’t it?”
+
+“I can't believe dragons exist in this world,” Aether muttered, walking over to where the dragon had been perched moments before.  Paimon nodded.  “Yeah, Paimon gets why you're worried…”
+“Is talking to dragons normal?”
+
+“Of course not!” Paimon denied, waving her hands vigorously.  Aether was already struggling to come to terms with seeing such a large creature… and seeing such a diminutive, innocent-looking person seemingly conversing with the dragon was enough to make his head spin.
+
+“Oh? What's that?”  Paimon pointed to the upper plateau of mossy stone where the dragon’s hind legs had been dug in.  “There's some kind of shiny red thingy on the big rock over there.  Let's go take a closer look.”  Paimon floated up to the ledge as Aether leaped deftly across the small gap and up to the mossy tableau.  “Be careful! Paimon doesn't have a good feeling about this…”
+
+Aether hesitated with outstretched arm before finally cupping his hand beneath the strange object.  It could only be described as a crystalline droplet-shaped gem, red as a blood moon.  It was heavy enough to feel valuable, but at the same time it pulsed with an energy otherworldly and decidedly feverish.  Aether grimaced slightly at the feeling it gave him.
+
+“Paimon's never seen a stone like this before, so Paimon can't tell what it is.  All Paimon knows is that it's dangerous. Best we put it away for now.”  Before the Traveler could react, Paimon had snatched away the crystal with her greedy hands.  She levitated it into the air for but a moment, the crimson stone nearly as large as she; and then, as she closed her fist the gem blinked out of existence, as if it had never been in the first place.  Aether stared in astonishment.
+
+“Okay, we've got it! Now let's get out of here.”  Aether didn’t have the courage to ask her where she managed to stuff the giant thing, so for now, he simply hopped down to the forest trail, the far forest clearing his destination.
 
 ## Wind-Riding Knight
 - On the path to Mondstadt, you inadvertently eavesdropped on a meeting between a huge dragon and a mysterious figure.  As you proceeded with various doubts in mind, a perky young girl showed up to block your path.
