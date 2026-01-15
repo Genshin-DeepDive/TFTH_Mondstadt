@@ -1,7 +1,7 @@
 # Prologue: Act 1 - The Outlander Who Caught the Wind
 <sub>Created by [u/Genshin_DeepDive](https://www.reddit.com/user/Genshin_DeepDive/)</br>
 Created on 2026/1/11</br>
-Updated on 2026/1/14</sub>
+Updated on 2026/1/15</sub>
 
 ### CURRENT SNIPPET/UPDATE
 [00004](https://drive.google.com/file/d/1_nGm-a4HgXUwX6__ynIqvXl9-qoa7jeh/view?usp=sharing) as of 2026/1/13
@@ -111,19 +111,56 @@ Aether hesitated with outstretched arm before finally cupping his hand beneath t
 “Okay, we've got it! Now let's get out of here.”  Aether didn’t have the courage to ask her where she managed to stuff the giant thing, so for now, he simply hopped down to the forest trail, the far forest clearing his destination.
 
 ## Wind-Riding Knight
-- On the path to Mondstadt, you inadvertently eavesdropped on a meeting between a huge dragon and a mysterious figure.  As you proceeded with various doubts in mind, a perky young girl showed up to block your path.
-- Cutscene
-- Quirky music
-- Amber shouts and jumps over us
-- Dialog + meet Amber
-- First comment on “foreign” name
-- Paimon “mascot”
-- Emergency food
-- Canonically, Amber joins party to travel to Mondstadt
-- Amber shows off archery skill, meet Anemo slime for first time
-- Exit Whispering Woods on path, see another broken wagon
-- First time seeing Cider Lake
-- Offroad short distance, to teleporter
+As the Traveler and Paimon strolled through the slowly-thinning forest, the short rocky walls of the hills closing in the path began to fall away into a wider plain.  On one side Aether could now clearly see the ever-looming walls, spires, and windmills of the City of Wind.  Giving it a closer look, he realized that Mondstadt proper was surrounding at least halfway by what looked like a monumental lake, known as Cider Lake.  The only approach into or out of the city appeared to be a stoic stone bridge crossing some of the shallower water towards the mainland.
+
+“Hey, you! Stop right there!”  A sudden shrill shout came from just beyond the fading slopes of the nearby hills.  Aether stopped, more from surprise than obedience.  Just as he did so, he caught a crimson blur passing overhead as someone agile yet quite small leapt straight over him!
+
+The young lady landed with an adept roll and then a contrasting moment of stumbling before she stopped and spun to face the Traveler and Paimon, a hand on her hip casually.  A bright, eager smile quickly lit up her face and left Aether befuddled but pleasantly charmed.
+
+“May the Anemo God protect you, stranger!”  The young woman spoke first, with a formally firm yet polite tone.  “I am Amber, Outrider for the Knights of Favonius.”  The girl, dressed in a rather sharp red scout’s uniform with emblazoned leather corset, certainly gave the air of a professional, but the word “knight” certainly wasn’t the first to cross Aether’s mind… at least until her tone suddenly shifted.
+
+“You don't look like citizens of Mondstadt. Explain yourselves!”  One of Aether’s eyebrows imitated Amber’s earlier leap.  Paimon waved her hands in front of herself emphatically.
+
+“We're not looking for trouble.”  Amber squinted a bit, but there was no hostility behind the stare.
+
+“That's what all the troublemakers say,” she retorted firmly.  Aether decided to intervene before Paimon dug their apparent hole any deeper.
+
+“Hello, I'm Aether,” he offered, trying to maintain a loose posture without looking too casual.  Amber deflated his greeting like an arrow through a balloon.
+
+“Doesn't sound like a local name to me.  And this... mascot, what's the deal with it?” she asked, motioning towards Paimon.  Paimon made the most of the opportunity and enthusiastically answered.
+
+“We're friends!  We've only been traveling partners for two months, but we've already become the very best of friends!”  Amber squinted again, making Aether wonder if perhaps she could do with a pair of good glasses.  Well, if any message was going to get across to this “Knight of Favonius,” then maybe humor was the way to go.
+
+“Emergency food,” Aether smiled and quipped, beaming proudly at his hilarious proclamation.  Paimon was immediately less enthusiastic.
+
+“Hey! That's even worse than being a mascot!”  Aether just shrugged.  Amber’s expression relaxed a bit, and Aether made a mental note about “emergency food” being a key that might open greater doors in the future… he’d have to make a mental note to use that quip later.
+
+“So to sum it up, you're traveling partners, right?” Amber continued without waiting for an answer.  “Well look, there's been a large dragon sighted around Mondstadt recently. Best you get inside the city as soon as possible.  It's not far from here, I'll escort you there.”
+
+Paimon exchanged a quick knowing look with Aether.  “Oh? Aren't you out here for some other reason?”
+
+Amber nodded firmly.  “I am. But not to worry, I can keep you both safe while doing that too.  Besides... I'm still not sure if I can trust you two just yet!”  So much for humor, Aether mumbled internally.  “
+That's a rather rude way to speak to guests,” he pointed out dryly.
+
+“Oh, ahh... I'm sorry.“  Amber immediately began fidgeting in a manner rather unbefitting of her station.  Her red bandanna flopped around her head as she fidgeted, looking like a bunny’s ears and immediately making her appear ten times less intimidating.  She stammered as she continued, confidence suddenly gone.
+
+“Probably not something I should say as a knight.  I give you my apologies, uh... strange yet... respectable travelers.”
+
+Paimon immediately latched on to the one word she actually heard, feigning righteous indignation and stamping her foot against the air.  “That sounded so fake!”
+
+Amber tilted her head up and to the side with indignation of her own.  Her knightly tone suddenly returned.  “Do you have something against the type of language usage prescribed by the Knights of Favonius Handbook!?”  Aether decided that, given the bevy of miscommunication happening in front of him, that his best bet would probably be to just start walking as Amber had originally suggested.
+
+As the trio began walking towards Mondstadt City, Aether noticed a vertical beam of red light similar to the one emanating from the Statue of Seven they had encountered earlier, just off to their left, on the slopes of a steadily-rising ridge.  Aether briefly hopped off the path, off-roading his way through some light brush in order to investigate the source of the light.  Amber stumbled a bit as she tried to sharply turn to keep up with the Traveler.
+
+“So, suspicious travelers, what are you doing in Mondstadt?”  Aether rolled his eyes a bit internally at the word “suspicious” being bandied about again, but kept pushing to the base of a small vertical rise, just taller than he was.  Paimon answered for both of them as Aether began climbing nimbly up the short height.
+
+“Aether got separated from his sister during a really, really long journey.  Paimon is his travel buddy, helping him to find his sister.”  Amber did her trademark squint once more, finding Paimon’s explanation a bit lacking.  Lucky for the traveling companions, Amber’s heartstrings were pulled faster than her suspicion strings.
+
+“Oh, looking for your family... Huh.”  A brief moment of deep thought swept across Amber’s face as she agilely followed Aether in climbing up the short cliff.  She reached the top with plenty of breath, and a new idea.  “Ah, okay! Let me finish my other stuff first, and then I can help you put up posters around the city!”
+
+Paimon floated up alongside the two climbers, smugly grinning at their exertion before frowning a bit at how easily they conquered the rise.  She held an inquisitive hand up and asked, “What exactly is it you need to finish doing first?”
+
+Amber gave Paimon further reason to fume by deftly dodging the question as the group approached Aether’s apparent destination, an inactive teleporter.  “It's simple. You'll understand in a bit,” she smiled.
 
 ## Going Upon the Breeze
 - The girl’s name is Amber, and her duty as an Outrider is to escort you to Mondstadt.  However, she has another task to attend to first, which is to clean out the hilichurls that have been wandering around outside the city.
