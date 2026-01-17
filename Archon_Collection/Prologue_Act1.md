@@ -1,10 +1,7 @@
 # Prologue: Act 1 - The Outlander Who Caught the Wind
 <sub>Created by [u/Genshin_DeepDive](https://www.reddit.com/user/Genshin_DeepDive/)</br>
 Created on 2026/1/11</br>
-Updated on 2026/1/15</sub>
-
-### CURRENT SNIPPET/UPDATE
-[00004](https://drive.google.com/file/d/1_nGm-a4HgXUwX6__ynIqvXl9-qoa7jeh/view?usp=sharing) as of 2026/1/13
+Updated on 2026/1/16</sub>
 
 ## Intro
 Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
@@ -163,39 +160,108 @@ Paimon floated up alongside the two climbers, smugly grinning at their exertion 
 Amber gave Paimon further reason to fume by deftly dodging the question as the group approached Aether’s apparent destination, an inactive teleporter.  “It's simple. You'll understand in a bit,” she smiled.
 
 ## Going Upon the Breeze
-- The girl’s name is Amber, and her duty as an Outrider is to escort you to Mondstadt.  However, she has another task to attend to first, which is to clean out the hilichurls that have been wandering around outside the city.
-- Encounter first Hilichurl Fighter
-- Proceed to camp
-- Clear camp
-- First artifact?
-- Amber shoots off Hilichurl Shooter
-- Dialog
-- Amber comments on combat ability
-- Stormterror mentioned
-- Walk down path, encounter The Art of Cooking NPC Lynn
+The adventuring party soon found themselves at the base of a narrow slope, whose base was occupied by a small camp and, just up-slope from it, the aforementioned teleporter.  Aether paused to place his hand on the teleporter, watching the beam fade from red to blue as the statuesque device rose to an activated position.
 
-> # WQ: Art of Cooking
-> - Adventurer’s Guild mentioned
-> - Grab ingredients from barrel
-> - First time cooking, cook Chicken-Mushroom Skewer
-> - Obtain mushrooms, wheat, bird eggs
+Teleporters were a bit of a “modern mystery” in Teyvat, Paimon had once told Aether before.  They seemed to only react to certain individuals, and even then only under specific conditions; but once active, the person who had activated it and their direct companions could use the device to be instantly transported to any other they had activated prior.  Those who used the teleporters didn’t claim to “feel” or “do” anything to make use of them; the whole experience was so far beyond description that many felt it would be ludicrous to even attempt to do so.  As such, texts on the topic were decidedly scarce, and few could claim to be an expert on the technology- if even you could call it that.
 
-- Walk down from Lynn’s camp to intersection
-- Mondstadt stands to the north, Dragonspine to West, Cape Oath to Southeast
-- Cross bridge, startle pigeons
-- Encounter entrance gates and two Favonius Guards
-- Meet Lawrence
-L:  Welcome to Mondstadt, traveler.  How can I help you?
-A:  Tell me about Mondstadt.
-L:  Known as both “The Crown of the North” and “The City of Pastoral Song,” there are no words that can truly describe the beauty of this city.  A new bard arrived in the city not long ago.  You should seek him out if you want to feel the true essence of Mondstadt.  But the songs he plays are… a bit archaic?  Those songs date back thousands of years.  No clue as to how he knows them…
-A:  Are there any legends about Mondstadt?
-L:  You’ve come to the right person.  It’s said in Mondstadt, a righteous hero often appears at night.  But no one knows his true identity…  I should stop there, or else I’ll keep talking about him.  If the Acting Grand Master catches me chatting on duty again…  Sorry, guess I’ll talk to you next time.
-- Meet Swan
-S: Hi, anything the Knights can do for you?
-A: Who are you?
-S:  I’m Swan.  I mostly perform sentry duty.  I also provide any necessary assistance to our business visitors in accordance with the Knights of Favonius Handbook.
-A:  What is the Knights of Favonius Handbook?
-S:  Yes.  The Knights of Favonius Handbook is our instructional guide, and also the cornerstone of peace and prosperity in Mondstadt…
+Aether was jolted back to the present by Paimon’s shout.  “Ah! A hilichurl!”  Aether spun to face the path climbing the hill next to the teleporter.  A single humanoid… creature, had come sprinting down the hill, waving a decrepit wooden club.  Aether couldn’t even fathom how he would explain its appearance to someone else, if ever asked.  The creature’s “skin” was a charcoal gray, covered in deep wrinkles and deeper scars.  An absolutely untamed mass of hair or fur burst out from behind a primitive white shellacked mask, with two rather unintimidating horns cresting its top.
+
+Amber was unexpectedly quick to react.  “Quick! Get it!”  No sooner had she spoken than a wood-and-bone shortbow materialized behind her head.  Amber reached over her left shoulder to retrieve the bow and in one smooth motion used her other hand to reach into the quiver on her right thigh and retrieve a rather nasty-looking arrow.
+
+Aether sprinted up the hill, summoning his sword to his hand as he did so.  He was nearly into melee range when a piercing whistle whisked over his right shoulder.  The lethal arrow Amber had retrieved earlier had found its mark… and whizzed over his shoulder on its way.  Aether shivered for a moment, briefly reminding himself to not judge a Crimson Knight by her bandanna.
+
+Its mask having been unable to stop the arrow, the hilichurl crumpled to the ground, mask broken and pieces scattered across the path.  A mere second later and the corpse had disintegrated into a dark ashen dust that was quickly scattered to the winds.  Aether willed his weapon away; Amber did the same as she came up behind him, eyes wandering the path cautiously.
+
+“These monsters have been getting too close to the city recently,” she stated, pointing to a small wooden platform marking a makeshift fortress ahead.  On top of the platform stood another hilichurl, this one armed with a crossbow.  “My task this time is to clear out their camp,” she finished, motioning for the Traveler to follow her up the path.
+
+As they crested the rise, Aether almost winced from witnessing the rather embarrassing condition of the “fortress” they had stumbled upon.  To call it a camp was perhaps even a bit generous.  A single three-meter-tall tower, perched on four leaning, decrepit wooden legs stood vigil over the camp.  An encircling meter-high wooden wall, made from scraps of driftwood, found lumber, and broken branches, served to deter invaders, but gaps in the perimeter were large enough to pull a wagon through, making Aether wonder if there was even a point to having them, at all.  Wandering to and from a small campfire were two more hilichurl fighters, armed with crude clubs and a poor temper.
+
+Whether to defend Mondstadt or simply put these filthy creatures out of their misery, Aether once again summoned his weapon and charged into the midst of the camp.  Paimon had decidedly had enough excitement for one day, and hovered cowering behind the wooden wall, her cherub face peeking curiously around the cover to watch the action unfold.
+
+It was over in a moment, leaving nothing but three ash piles and a collapsed makeshift tower.  More curious was the fact that the tower was on fire.  A brief glance in Amber’s direction held the answer; her still-nocked arrow’s tip was engulfed with a small flame.  Despite being a rather diminutive blaze, the raging bonfire of scrap tower materials gave a different impression of Amber’s flaming arrows.  Aether caught himself being rather impressed with the Outrider’s abilities.  Amber apparently felt the same.
+
+“Heh, nothing to it,” she gleefully huffed, only slightly out of breath.  “Though I've gotta say, you surprised me a little with your moves there.  Thanks for the backup.  How'd it feel?
+Aether, not wanting to be upstaged by this upstart scout, answered cockily, “Barely broke a sweat.”  Amber didn’t seem to take note of the bravado or Aether’s smug grin, instead shouldering and vanishing her weapon from her hands.  Paimon came meandering over from behind the collapsing camp wall, staring at the smoldering wreckage as she did.
+
+“Now that you mention it, how is it the hilichurls ended up here?” she asked hesitantly.  “These creatures don't seem like the type to set up camp so close to cities like this.”
+
+Amber nodded her agreement.  “Exactly. It's more normal for them to be much further out in the wilderness.  But because the dragon, Stormterror,” here she motioned vaguely at the sky, “has been around a lot more recently, our orchards have been destroyed and the local market has been affected as well.”  Amber frowned slightly while summarizing the recent events.  “When the storms hit, we usually end up with at least a few injuries, so the Knights of Favonius have been tied up doing the best they can to defend the area.”  Paimon pointed to the distant image of Mondstadt City on the horizon.
+
+“So these annoying creatures have been getting closer and closer to the city?”
+
+“Exactly. That said, clearing this camp helped make the area a little bit safer.  Come with me!  A responsible knight must make sure to see you to the city safely.”
+
+### Art of Cooking
+Amber waved her hand towards the bridge leading to Mondstadt proper, leading Paimon and Aether down the hill back towards the teleporter they had recently activated.  As they reached the bottom of the hill, the camp Aether had first spied near the teleporter came into view.
+
+Standing at this camp was a young woman, dressed in a rather durable-looking green and white dress.  She had a beige rucksack slung over her shoulders, from which hung a red leather waterskin and several bulbs and roots from various regional plants.  She was sniffing at the air around the campfire rather furiously with a look of pained pleasure on her face.  Aether couldn’t tell if she was enjoying herself or being tortured.  Paimon, on the other hand, had a face that was all bliss.
+
+“What’s that?!  It smells so good!” she exclaimed, looking around for the source of the smell.  As the group approached, the young lady waved them over vigorously.
+
+“Oh, hello there!  Are you travelers from around here, as well”?
+
+The “as well” immediately made it clear to Aether that the young woman must be an adventurer or traveler, given her uniform and well-kitted bag of gear.”
+
+Aether shook his head and answered, “No, we just happen to be passing by.”
+
+Paimon steamrolled right through the developing conversation, floating between the lady in green and Aether while also eyeing the portable grill smoking on the campfire.  She sniffed furiously, giving the impression of a very hungry puppy before speaking and removing all doubt.
+
+“What are you cooking?  It smells sooooo good!”
+
+“Well, welcome travelers,” the young lady began, trying to keep the conversation polite and on-track.  “I’m Lynn, the survival expert of the Adventurer’s Guild.  As you can see, I’m experimenting with some new recipes.”
+
+Lynn motioned to the fragrantly smoking grill before leaning down to pick up a rather dusty paper pamphlet.  “’Eat before you go’—the first rule in the Wilderness Survival Guide!” she proudly stated, pointing emphatically at the statement written on the pamphlet’s well-worn cover page.
+
+Paimon heard almost nothing Lynn had said.  “A picnic!  Oh, Paimon just loves picnics!  My travel partner here is great at cooking, as well!” she gushed, eyes never wandering from the campfire grill and the chunk of meat searing on top of it.
+
+Aether shook his head, humbly waving off the compliment.  “I can only cook a few simple dishes,” he deferred.  Lynn perked up at the opportunity to mentor a new Adventurer.
+
+“That's okay. Let's see what you can do!  You won't get a lot of chances like this to learn from a survival expert!  Let’s see…” Lynn paused to look around her rather spartan campsite, her eyes locking on to a sturdy-looking provisions barrel in back of her camp.  “There are some mushrooms and meat in the barrel over there. Try making a chicken-mushroom skewer for me.”
+
+Paimon air-dashed her way over to the barrel and tried to pry up the lid.  Aether chuckled at her flailing and came over, summoning his sword to serve as leverage.  Just a little effort, and POP, the barrel lid yielded, revealing preserved packages of salted fowl and a few wrapped mushrooms.  Lynn called over from the campfire.
+
+“Have you got all the ingredients?  You can use my grill right here. Use it all you want.”  Aether nodded, walking over to the sizzling iron mesh that served as a portable campfire stove and grill.  He took the edge of his blade, shaved down a thin broken branch that fallen nearby, and turned it into a nifty little skewer, albeit a crooked one.  Paimon giggled at the ugliness of it.
+
+Aether then pierced the preserved fowl, alternating it with the velvety mushroom caps, and made a crude shishkebab, which he promptly dropped onto the iron mesh.  The heat of the open flame quickly seared the meat and mushrooms; and with just a bit of salt from one of Lynn’s survival pouches, the miniature entree soon began to sizzle with a savory fragrance.
+
+Lynn closed her eyes, breathing in the fresh grilled scent.  “Is it done? Mmm... Smells good, let me try…”  She reached down, yanking the now-lightly-charred skewer from the grill.  Aether glared daggers at her, but didn’t stop Lynn from biting into the food.  Paimon tried to gauge Lynn’s enjoyment of the snack, but once again her “pain and pleasure” face was making it impossible to judge.  Paimon fidgeted a bit in worry.
+“Ahh... Uh oh…”  Paimon’s confidence had barely started to fall when Lynn’s eyes lit up and she nearly squealed in excitement.
+
+“Now that's really tasty! The seasoning is just right, and it’s perfectly grilled.  You are indeed gifted!”
+
+Paimon put her hands on her hips triumphantly and twirled around once.  “Paimon told you so!”
+
+“With your culinary skills, you should try more difficult dishes.  Oh, speaking of, I've got some raw ingredients in my bag. Have them in return for this meal.”  Lynn pulled out some threshed wheat and a few pristine bird eggs, presenting them to Paimon, whose eyes grew immediately larger than her stomach at the chance for more free food.
+
+“Can we really have them? Won't you run out of ingredients?”
+
+Lynn laughed jovially and shook her head.  “That's okay. You should be able to find lots of ingredients when exploring the wilderness. Don't forget to look carefully.  There's also a restaurant in Mondstadt known as “Good Hunter” that sells food and ingredients. Go have a look when you've got the time, since you’re headed that way.”
+
+Amber had been watching this whole conversation from a few paces away under a small birch tree, where she too was savoring a skewer of her own.  Albeit, hers was more “survival-oriented” than even Lynn’s was, consisting of lizards’ tails and frogs’ legs… still, she found herself a bit jealous and eager to try the Traveler’s cooking for herself.  She stood when she saw that Aether and Paimon were finishing up at the camp.
+“Ready to keep marching on?” she asked cheerily.  Aether and Paimon both nodded, their mouths still stuffed with skewers they had made for themselves.  Amber’s jealously flared a little more.  She just had to try the Traveler’s cooking once they got to Mondstadt.  For now, though, it was time to move on, and Amber led the way to a broad intersection that lay just before the bridge into Mondstadt City.
+
+As Aether’s feet touched the smoother fine dirt and sand of the well-traveled path, his eyes wandered up to the horizon.  To the far west stood an enormous peak, it’s snow-capped summit almost entirely surrounded by thick clouds sweeping briskly across it under a strong wind.  To the south was an impressive cliff that jutted out far over the ocean, its tip as sharp as shorn metal, and its top dotted with spiky, indifferent fir trees.  Not even a breeze stirred the branches.  Beyond, Aether could make out an ocean-borne thunderstorm far out to sea to the south.
+
+Aether pulled his attention back to Mondstadt City, as the stoic walls and heavenward spires of the City of Freedom began to loom ahead.  In the distance, he could hear the gentle “swooshing” of the city’s many windmills churning in the breezy afternoon.  He was so absorbed with the bardic town’s charm that he failed to watch where he was going.
+
+“Hey.  Hey!  Heyyyyyy!” came a shout from his left, but it was too late.  A sudden flurry and flapping of wings came rushing across the path as a group of pigeons, disturbed by the Traveler’s aimless wandering, scattered to the less-startling winds surrounding the city walls.  Aether looked to his left and saw a freckled boy, staring at him with mouth agape.  The boy stuttered, trying to find the words to express his obvious displeasure.  Aether held his hand up sheepishly in apology but continued on his way, trying to keep apace of Amber and Paimon, who had passed him by during the kerfuffle.
+
+The intimidatingly tall portcullis gate was flanked on either side by two radiantly white-clothed knights.  Both perked up and stood at attention as Amber approached, greeting her by raising their hands to their chests, palms flat and fingers straight in salute.  Amber nodded to them momentarily before passing them and heading into the city.  The two men chimed, almost entirely in unison:
+
+“Welcome to Mondstadt, weary traveler!”
+
+> Meet Lawrence
+> 	L:  Welcome to Mondstadt, traveler.  How can I help you?
+> 	A:  Tell me about Mondstadt.
+> 	L:  Known as both “The Crown of the North” and “The City of Pastoral Song,” there are no words that can truly describe the beauty of this city.  A new bard arrived in the city not long ago.  You should seek him out if you want to feel the true essence of Mondstadt.  But the songs he plays are… a bit archaic?  Those songs date back thousands of years.  No clue as to how he knows them…
+> 	A:  Are there any legends about Mondstadt?
+> 	L:  You’ve come to the right person.  It’s said in Mondstadt, a righteous hero often appears at night.  But no one knows his true identity…  I should stop there, or else I’ll keep talking about him.  If the Acting Grand Master catches me chatting on duty again…  Sorry, guess I’ll talk to you next time.
+> Meet Swan
+> 	S: Hi, anything the Knights can do for you?
+> 	A: Who are you?
+> 	S:  I’m Swan.  I mostly perform sentry duty.  I also provide any necessary assistance to our business visitors in accordance with the Knights of Favonius Handbook.
+> 	A:  What is the Knights of Favonius Handbook?
+> 	S:  Yes.  The Knights of Favonius Handbook is our instructional guide, and also the cornerstone of peace and prosperity in Mondstadt…
 
 ## City of Freedom
 With your help, the problem was resolved quickly.  Led by Amber, you reach the city of freedom – Mondstadt.
