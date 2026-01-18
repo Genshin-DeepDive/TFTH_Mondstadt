@@ -1,7 +1,16 @@
 # Prologue: Act 1 - The Outlander Who Caught the Wind
 <sub>Created by [u/Genshin_DeepDive](https://www.reddit.com/user/Genshin_DeepDive/)</br>
 Created on 2026/1/11</br>
-Updated on 2026/1/16</sub>
+Updated on 2026/1/17</sub>
+
+# Completed Contents
+[Intro](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#intro)</br>
+[Bird's Eye View](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#the-outlander-who-caught-the-wind)</br>
+[Unexpected Power](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#unexpected-power)</br>
+[Forest Rendezvous](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#forest-rendezvous)</br>
+[Wind-Riding Knight](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#wind-riding-knight)</br>
+[Going Upon the Breeze](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#going-upon-the-breeze)</br>
+[City of Freedom](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#city-of-freedom)</br>
 
 ## Intro
 Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
@@ -264,45 +273,115 @@ The intimidatingly tall portcullis gate was flanked on either side by two radian
 > 	S:  Yes.  The Knights of Favonius Handbook is our instructional guide, and also the cornerstone of peace and prosperity in Mondstadt…
 
 ## City of Freedom
-With your help, the problem was resolved quickly.  Led by Amber, you reach the city of freedom – Mondstadt.
-- Cutscene (pay attention to sequence of objects noticed)
-- Dialog in entrance plaza
-- See blacksmith, some shops, see patrolling KoF
-- City folk don’t appear happy
-- Receive Sticky Honey Roast (future gag)
-- See female bard Helen on balcony
-- Hear blacksmith
-- Speak with Helen
-H: *clears throat*  Um, excuse me?  I was about to begin my song… I’m trying to protect Mondstadt here.  This had better be important.
-A:  Protecting Mondstadt?
-H:  Well of course!  Ever since I started performing my songs here, everything in Mondstadt has really cleared up.  Obviously that’s because of my efforts, right?  Maybe I’m a bard blessed by Barbatos… hehehe… You know, I bet if Barbatos was a bard, our skills would be equally matched!
-- She appears happy.
-- See Katheryne and Adventurer’s Guild kiosk
-- See Cat’s Tail tavern
-- See under-renovation “With Wind Comes Glory”
-- Amber dialog while walking
-- Reach fountain plaza
-- See Sara and Good Hunter
-- See Blanche and Mondstadt General Goods
-- See Timaeus and Alchemy shop
-- See windmills
-- See Adventurer’s Guild, don’t know it yet
-- See KoF banner on wall
-- See Barbatos statue
-- See Goth Grand Hotel and first Fatui, Luke
-- See Sansa
-- See Upper Wall
-- Walk up stairs on left side, see KoF HQ
-- Climb tons of stairs
-- See Favonius Cathedral
-- See Barbatos statue up close
-- See Grace and people praying, including first Sumeru scholar encountered
-- Overhear generic prayers
-- Dialog
-- Receive Wind Glider
-- Amber heads down to fountain plaza
-- Step off Statue plaza wall and fly between buildings, exciting!
-- Land next to Amber
+Aether and Paimon’s faces widened with awe as they slowed to a slow stroll through the Mondstadt main portcullis gate.  Ahead of them lay a bustling multi-tiered market street flanked with multi-story businesses and residences.  Stucco-and-wood walls climbed to meet vivid red and turquoise clay tile roofs.  Across the architectural canyon floored with flagstone tiles were lengths of rope draped with flags of varying cultural significance.  Canvas awnings and fabric flags swayed in the near-constant eddying winds.  Windmills could be heard lumbering in the distance, and through the sharp rooftop spires Aether could spy the head of a magnificently tall statue located somewhere at a higher elevation.
+
+Amber smiled at their expressions of awe, beginning her spiel for what must have been her hundredth time, given her experience.
+
+“Let me officially introduce the city of wind, dandelions, and freedom.  Travelers under the protection of the Knights of Favonius — Welcome to Mondstadt!”
+
+Paimon clapped her tiny hands excitedly, taking in all of the sights around her as quickly as an overstimulated child might.  “Finally, no more having to camp outdoors!”  As she finished expressing her joy, though, a citizen of Mondstadt shuffled by, head down.  The young lady had obviously just finished some sort of shopping errand, as in her hands were held baskets of various groceries and essentials; but she carried not the aura of a happy shopper, but instead one of someone burdened to even be caught out during such a time.
+
+Paimon tilted her head in confusion.  The cheery decor, the upstart gate guards, and Amber’s spiel conflicted with the state of the market around her.  Shopkeepers muttered to customers instead of clamorously hawking their wares.  Flower merchants busied themselves with tending to their plants, many of which were bent over as though they had been trodden under foot recently.  Fruit and vegetables in market stalls looked worse for wear, with bruises and scars marring the otherwise colorful surfaces.  Guards wandering the streets on patrol seemed preoccupied with their thoughts, but shaky hands and knees betrayed a strange fear that underlined the tension in the air.  Paimon gave Amber an inquisitive look.
+
+“But... the city folk don't look too cheery.”
+
+Amber sighed and nodded slowly as she answered.  “Everyone's been put out of place by Stormterror recently.”  Her attitude brightened a little as she added, “But everything will turn out fine as long as Jean's with us!”
+
+“Jean?” Paimon queried.
+
+“Acting Grand Master of the Knights of Favonius — Jean, Defender of Mondstadt.  With Jean on our side, surely even the vicious Stormterror will be no match for us.”
+
+Aether made a mental note of the “Acting” portion of Jean’s title.  Whoever Jean was, they must be someone pretty impressive to warrant Amber’s gushing praise.  The Traveler could only hope that someone that high up the hierarchy in Mondstadt would know a thing or two about the gods, particularly the Anemo God. Amber continued her introductory pep talk unabated.
+
+“Before I take you guys to the Knights of Favonius Headquarters, I have a present for you, Aether.  It's a reward for helping me clear out that hilichurl camp.”  Aether’s curiosity was immediately piqued, but not nearly as much as Paimon’s.
+
+“H-hey,” she stammered jealously, “why doesn't Paimon get a reward?”
+
+Amber scratched her head with almost parental confusion.  “Uh, because this reward is useless to you, Paimon.”  Paimon seemed unconvinced, her arms still crossed.  Amber gambled on a placation prize.  “But I'll treat you to a traditional Mondstadt delicacy, sticky honey roast.”  Paimon’s mood caused Aether no small amount of mental whiplash as she started drooling over the concept of free food.
+“Sticky honey roast!”
+
+Amber chuckled before pointing up the street to the head of the statue in the distance.  “Come with me, we'll head to the city's, uh, high ground.”  Amber stepped hastily towards the nearby stairs as she led the way towards the fountain plaza just up the slope.  Aether began to follow when he caught the sound of a stringed instrument being carried on the breeze, just slightly more melodic than the metallic clanging of a nearby blacksmith’s shop.  He let his gaze wander the entrance plaza and the market stalls before settling on a raised balcony adjoining the second story of the building on his left.  After a quick glance towards Amber, whose short figure was already growing ever-smaller towards the top of the stairs, Aether approached the balcony from below.
+
+“Hey… hi there!” he shouted up at the balcony.  The young woman standing on the balcony paused her playing abruptly and appeared particularly exasperated at the interruption.  Aether winced, wondering if he was committing a social faux pas.  “Hey, I just have a quick question for you,” he shouted up to her.
+
+The young woman was dressed in a rather humble burgundy dress with charcoal pleated skirt.  Her heavily-embellished corset and rather flamboyant collar and cravat identified her as a bard, a rather ever-present feature of the City of Wind and Freedom.
+
+She cleared her throat and asked, “Um, excuse me?  I was about to begin my song… I’m trying to protect Mondstadt here.  This had better be important.”
+
+Aether put his hand behind his head in sheepish apology as he inquired, “Um, have you seen anyone around that looks, well, a lot like me?”
+
+“Oh, you’re looking for someone, huh?  Off the top of my head, no, nothing springs to mind, sorry mister…?” she stated, the question implicit.
+
+“Aether—sorry to bother you, miss,” he replied, hoping he wasn’t being too much of a bother.
+
+“Think nothing of it, Mister Aether.  I’m Helen, a bard privileged to protect the citizens of Mondstadt.  I’ve duly noted your appearance, and if, in the future I’m performing from elsewhere high up, I’ll keep an eye out for the person you described.”
+
+“Much obliged,” Aether responded, not entirely convinced that Helen’s assistance would be useful.  Something she had said suddenly dragged him back to the conversation.
+“Wait, protecting Mondstadt?”  He hoped that his confusion didn’t come across too incredulously.
+
+“Well of course!  Ever since I started performing my songs here, everything in Mondstadt has really cleared up.”  Helen motioned to the bustling but certainly dispirited market street.  “Obviously that’s because of my efforts, right?  Maybe I’m a bard blessed by Barbatos.”
+
+Aether hadn’t the slightest clue who “Bar-bay-toes” was, but Helen didn’t seem inclined to explain.  She chuckled proudly to herself.  “You know, I bet if Barbatos was a bard, our skills would be equally matched!”  She certainly seems sure of herself, Aether thought.
+
+“So, why this balcony as your stage, then?  Shouldn’t you be playing a grander locale?”
+
+Helen stammered, suddenly flustered from Aether’s line of questioning.  “Uh, the higher up you are, the further… the further the sound travels.  Everyone knows that.”  Her confidence vanished as she meekly continued, “Don’t they?  Well anyway, if I’m on a high perch, everyone in the city will be able to hear my song.”  She quickly switched back to defensive mode as she finished her explanation.
+
+“I actually wanted to perform on the top of the statue of Barbatos.  It seemed appropriate for someone of my skill, but the nuns stopped me, saying that if they caught me trying they’d put the Knights of Favonius on to me.  The absolute nerve!”  Helen huffed indignantly.  “Incidentally, another advantage of being high up is that I can see really far, so I’ll be able to keep an eye out for your missing friend.  See?  It all comes together.”
+
+Aether didn’t have the heart to point out the errors in her assumptions, so he bowed slightly and departed from beneath the balcony, taking the stairs up the street two at a time.
+
+Amber was standing at the top of the stairway, staring at the fountain in the middle of the plaza.  It was rather halfhearted, as far as decorative water features went, Aether thought cynically, but he supposed that it did add a bit of class and comfort to the otherwise sterile stone plaza.  Amber looked over to him as he arrived at the top of the stairs.
+
+“This used to be a bustling street, but with so many Stormterror attacks recently, the usual crowds are nowhere to be seen.  Well, except for the local tavern near the city wall over there.”  She pointed eastward through the alleys snaking between the tall condos and shops.  “They haven't been affected. If anything, their business is better than ever.”  Amber seemed a bit put-off by the tavern’s success.  Aether did think that it must take quite a cynical personality to attempt to capitalize on a crisis, but he supposed that the world did have all sorts, after all.
+
+Aether turned to look back down the stairs and the central avenue he had come up.  On one side was a small kiosk manned by a young woman in green uniform attire, similar to that of Lynn, the survival expert they had encountered outside the city.  The sign bolted to the wooden eaves of the kiosk said “Adventurer’s Guild.”  So they have one of those here.  I’ll have to inquire there later, Aether noted to himself.
+
+Adjacent to the Adventurer’s Guild was another building with a small porch, warmly lit by a variety of small iron lanterns.  Scattered around the lanterns were a bevy of cats, in various states of leisure, sunning themselves, stretching, loafing, or otherwise just lounging.  The A-frame sign stationed in front of the building advertised the location as “The Cat’s Tail.”  Fitting, if a bit on-the-cat’s-nose.
+
+On the opposite end of the street was a business with a grand bay window at ground level.  Behind the window, great cream-colored drapes had been slung up, hiding the interior’s contents.  Judging by the dust piled up inside at the base of the window, the place must have been under renovations.
+
+Amber began walking away with a brief “psst” to get his attention.  She nodded towards a narrow set of stairs hidden behind a nearby restaurant.  The stairway adjoined to the wall connecting the fountain plaza with the one above it, and terminated in front of one of Mondstadt’s many impressive windmills.
+
+Aether took one last glance around the fountain plaza, noting the restaurant and its many patrons on one side, and what appeared to be some sort of potion shop and general store on the other side.  Even if Mondstadt ended up offering nothing in the way of information about his kidnapped sister, it would certainly serve as a suitable headquarters for a long-term investigation.  The Traveler relaxed a little, feeling assured by the comfortable surroundings of a bustling city.  He then proceeded to follow Amber up the steps, admiring the towering windmill with its great arms slowly turning in the mid-afternoon breeze.
+
+As they turned the corner from the windmill, the group came to a hanging scarlet banner, with shining gold heraldry boldly emblazoned on its center.  Amber said nothing about the grand banner, so Aether made a point to ask her about it later.  They continued down the bench-lined avenue, empty benches almost queued in a line towards the central town teleporter.  Amber doubled back to a stairway on their left before leading them through a shadowed alley and another set of stairs.
+
+At the top of the stairs was another fountain plaza, this one a bit less ostentatious than the one below.  This smaller plaza had little in the way of architecture, except for an elegant and somewhat bourgeoisie hostel, whose unassuming sign read “Goth Grand Hotel.”  Grand indeed, Aether grumbled to himself.  Grandeur and expense were certainly not in his list of desirable lodging descriptions.
+
+Another of the quintessential Mondstadt bards was playing a lyre by the fountain, but the group found their attention dominated by the imposing eighty meter high circular wall laid out before them.  Amber smiled with familiarity and pride at the sight of the mighty bulwark.  Paimon froze, and Aether couldn’t help but admire, himself.
+
+On either side of the massive stone monolith were wide sets of stairs leading to the upper plaza, separated centrally by a rather spartan, but lush, evergreen garden.  Amber led the traveling companions up the stairs, to a wide landing with an impressively domineering stone barracks.  Two turreted towers topped with defensive emplacements flanked the main entrance, and in one of the near corners a rather humble but tall belltower stood.  Aether figured that it must be used as a city-wide alarm or rally signal.
+
+No signage advertised the building’s purpose, but it was relatively obvious to Paimon and Aether that the building must serve as a military headquarters, armory, or some other defensive purpose.  Mondstadt may have been the City of Freedom, but it certainly wasn’t lacking for strength in defense or military might.
+
+Past the landing, the trio continued their ascent up the grand steps to the uppermost plaza.  Paimon showed exaggerated signs of exhaustion given the climb, which amused Amber to no end, given that Paimon floated everywhere.  Amber and Aether shared a mutual chuckle at her theatrics as they reached the top of the grand staircase.
+
+What greeted them certainly ranked in Aether’s top ten list of impressive grandiose structures on Teyvat (admittedly, it was a short list given his time here).  A gargantuan Gothic cathedral, with no fewer than twenty spires rose from the upper plaza’s greatest height.  Pristine limestone masonry mingled with intricate stained glass, no doubt a testament to the sheer generosity of the church’s followers.  A central belltower rose like a finger to the heavens from the rear of the cathedral, and the three greatest spires boasted copper plating, although the copper’s luster had been diminished by weather over the decades, giving them a rich turquoise patina.
+
+Amber had pulled ahead of Paimon and Aether, who were gawking like freshly-arrived tourists at the sight of the grand Favonius Cathedral.  As if to compete with the Cathedral’s grandeur, a monumental stone statue rose prominently from the center of the cathedral plaza.  The figure enshrined in stone was thin, but not gaunt, covered head to toe in delicate robes.  Their arms were outstretched towards the city, cupped as if holding something fragile, while great feathered wings burst from their upper back, extended as if to catch the wind.  From the angle Aether passed the statue, it almost looked like it was holding the afternoon sun in its hands.  The glare from looking up at the sculpture gave Aether an immediate headache, and he shielded his eyes with his hands.  Amber shouted over to him.
+
+“Traveler, come on!”  Aether jogged over to give her his attention.
+
+“So, the present I want to give you is,” she paused for dramatic effect, “a Wind Glider!  Outriders use them to ride the wind, and the people of Mondstadt love using them too.  I brought you here to give it to you so you can experience it right away!”  As she spoke, she pulled out what looked like a small blue crystalline gem, shaped very nearly like a cross.  Two leather straps were attached underneath the gem on either side, presumably for securing to the body.  She grabbed one of Aether’s shoulders, spinning him round.  Paimon watched, her eyes filled with curiosity.
+
+“Oh, you're really excited about these wind gliders, huh!”
+
+Amber laughed cheerily as she secured the gemstone to the Traveler’s upper back, rather roughly but not rudely shoving his arms through the shoulder straps.  “Well that's because the wind is the heart and soul of Mondstadt!”  She pulled on the straps to cinch them tight; Aether winced a bit before flexing his chest to give himself a bit more breathing room.  The straps settled more comfortably then.  Amber steered Aether over to a balustrade jutting up from the top of the giant stone rampart surrounding the plaza, which they had seen from below just moments before.  As Amber guided Aether to step up to the edge, he took a brief look down at the pavement eighty meters below and wondered how much he trusted this chipper but rather ditzy Outrider not to kill him with faulty equipment.
+
+“Alrighty then, enough talk! Let's give it a whirl!”  Aether looked over at Paimon as Amber spoke, wondering if she was concerned for his safety.  Nope.  Blissfully ignorant of the danger and ready for excitement, as always.  Amber continued, “It's easy to use, but you still need to pay attention to my instructions, okay?”
+
+Amber pointed down towards the lowest fountain plaza, near the market.  “See the fountain way down there?  Not the closer one, but the one wayyyy over there?  I want you to to leap off this wall, open your glider, and land right next to it!  I’ll be waiting for you.  And don’t worry about how the glider works; since you can command the elements, all you’ll have to do is will it to open, and it will!  Trust me, it’s a bit scary at first but as long as you trust it to deploy, you’ll be just fine!”
+
+Aether gave Amber a slightly skeptical look, which she took as an expression of enthusiastic agreement.  “Great, let me just glide down there myself so I can be there to greet you!”
+
+Aether’s doubts about the glider’s durability and effectiveness immediately disappeared as Amber took a running start, grabbing the top of the wall and hurling herself rather recklessly over the edge.  Paimon gasped and nearly shouted with concern, but only a heartbeat passed before a pair of azure wings with bronze leading edge trim seamlessly burst from the diamond-shaped gem between Amber’s shoulders.  Amber smoothly caught the breeze and effortlessly slid between the encroaching buildings on her path to the fountain plaza.  Mere moments after she had jumped, she landed with a skip in her step, the fluttering wings withdrawn back into the crystal.  She turned triumphantly and motioned for Aether to follow.
+
+In for a Mora, in for a thousand, Aether thought.  In one smooth motion, he stepped calmly off the ledge, willing himself to be borne upon the winds.  Almost as if in divine answer to his wishes, he felt himself snugly tugged upwards a few centimeters as the wings erupted from the pack on his back, catching the passive breeze underneath.  He glanced up momentarily, and noticed that his particular set of wings were charcoal gray in color, with bronze embellishment similar to that on Amber’s set.
+
+Aether caught himself descending at a decent clip, so he returned his focus forward, willing himself onward with a slight lean to his front.  As he did so, he began soaring over the fountain and lyre-playing bard below, the buildings ahead seeming to form a narrow canyon for him to whisk through.  He winced a bit at the proximity of the Goth Grand Hotel on one side and a housing block on the other, but threaded the needle without any trouble.
+
+He skimmed just over a short wall leading to the fountain plaza, and with a much less adroit, but still skillful landing, he felt his wings retract back into the gemstone as his feet reached the ground.  Thinking back on the whole few-second experience, he realized that it had been quite effortless, and appreciated how convenient having such a flying device would be in his hunt for his sibling.  Amber was on to something, and she definitely had more skill with a glider then she let on.  He’d have to make a point to ask her about it in the future.
 
 ## Dragon Storm
 The usually peaceful Mondstadt was suddenly assailed by a dragon.  This is the Stormterror that Amber spoke of, and was the gigantic creature that you encountered in the forest earlier.
