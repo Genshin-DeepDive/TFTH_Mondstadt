@@ -1,7 +1,7 @@
 # Prologue: Act 1 - The Outlander Who Caught the Wind
 <sub>Created by [u/Genshin_DeepDive](https://www.reddit.com/user/Genshin_DeepDive/)</br>
 Created on 2026/1/11</br>
-Updated on 2026/1/17</sub>
+Updated on 2026/1/20</sub>
 
 # Completed Contents
 [Intro](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#intro)</br>
@@ -11,6 +11,7 @@ Updated on 2026/1/17</sub>
 [Wind-Riding Knight](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#wind-riding-knight)</br>
 [Going Upon the Breeze](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#going-upon-the-breeze)</br>
 [City of Freedom](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#city-of-freedom)</br>
+[Dragon Storm](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#dragon-storm)</br>
 
 ## Intro
 Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
@@ -384,29 +385,74 @@ Aether caught himself descending at a decent clip, so he returned his focus forw
 He skimmed just over a short wall leading to the fountain plaza, and with a much less adroit, but still skillful landing, he felt his wings retract back into the gemstone as his feet reached the ground.  Thinking back on the whole few-second experience, he realized that it had been quite effortless, and appreciated how convenient having such a flying device would be in his hunt for his sibling.  Amber was on to something, and she definitely had more skill with a glider then she let on.  He’d have to make a point to ask her about it in the future.
 
 ## Dragon Storm
-The usually peaceful Mondstadt was suddenly assailed by a dragon.  This is the Stormterror that Amber spoke of, and was the gigantic creature that you encountered in the forest earlier.
-- Cutscene
-- Dvalin actually damages buildings
-- People flee
-- Spawns whirlwinds
-- Aether gets caught up and sent skyward
-- Passed by Dvalin
-- Begin chasing Dvalin at altitude 6000-10000 feet
-- Hear Venti
-- Fire Anemo power
-- Dvalin seems unaffected
-- Dvalin ascends rapidly, losing us
-- Cutscene
-- Return to statue plaza, Amber comes over
-- Meet Kaeya
-- Dialog
-- Kaeya is skeptical and suspicious of Aether
-- Still stormy, swirls around Mondstadt City
-- Kaeya seems unconcerned, Amber seems panicked
-- Run down stairs with Kaeya and Amber to KoF HQ
-- No one in front of HQ
-- Enter HQ
-- Achieve:  “...Or a New Storm?” Banish the dragon attacking Mondstadt.
+No sooner had Amber come over to check on Aether after his admittedly underwhelming first flight than a stiff breeze began to stir in the plaza.  Awnings began to flutter, and the noise of strung-up flags and banners rustling rose in intensity.  The sky began to cloud over, in a way that certainly defied natural expectations; both Amber and the Traveler stepped towards the developing center of the swirling storm overhead.  The clouds rapidly began to rotate, as leaves and loose debris were soon thrown about.  Amber’s face darkened with concern.
+
+“The sky…” she said quietly, looking around at the nearby Mondstadt citizens, many of whom had also stopped to observe the strange yet terrifying phenomenon.  From the east came a banshee-like shrieking roar, rising quickly in volume and fury.  Both Aether and Amber spun to face the approaching tumult.  Over the east wall of the city and the many intervening blocks of flats rose a blur of aquamarine draconic rage.
+
+Amber immediately grasped the seriousness of the situation.  She spun once more, facing the terrified populace, many of whom were either cowering in place or scattering in random directions, seeking any refuge they could.  Aether’s eyes stayed locked on the dragon as it flew by; a quick sweep of the arrow-like creature’s silhouette informed him that it was the same dragon they had seen in the forest earlier.  Had the dragon come seeking him and Paimon?
+
+Paimon! Aether panicked inwardly for a moment.  He had left his travel guide in the cathedral plaza, and there was certainly no way she was going to be able to hold on as a cyclone passed, given that she had been barely able to withstand a mere gust from the dragon’s wings earlier.  Aether readied to sprint up the many stairwells to the upper city when the dragon swept overhead once more, its wingtips grazing chimneys and peeling away cedar roof tiles.  Some of the roof debris rained clatteringly into the alleys between buildings and onto the fleeing citizens below, while the rest was swept skywards into the increasingly violent wind currents swirling aloft.
+
+The dragon veered away from the city suddenly, rising high above it to the east, from whence it came.  With its mighty, enraged roar, there suddenly appeared a great many towering cyclones throughout the City of Winds, each of which proceeded to tear up roofs, throw about signage and loose decor, and generally terrorize the sheltering citizenry.  One such cyclone touched down just at the furthest rear point of the fountain plaza.  Faced with a walk of dark mist and wind, The Traveler and Amber turned to flee, but the whirlwind was upon them in an instant.  Amber managed to stay just out of reach of its foggy tendrils, but Aether was much less fortunate.
+
+He could barely hold onto his breath as it was yanked violently from his lungs, and moments later, his feet, too, were swept from the ground and he found himself flung upwards.  Aether could barely keep himself oriented, and he wished that he could step back onto solid ground, if only but for a moment.  Almost as if he had willed it, he felt himself suddenly stabilizing as the charcoal gray span of his glider swept outward from his back.  What fortunate timing to have received the glider only shortly ago, he thought.
+
+As he looked down upon the chaos and mayhem unfolding throughout the city, he heard another enraged, guttural shriek from behind.  Aether instinctively flailed his arms, as if trying to swim through the air, but only found himself smashed into by the dragon’s rising right wing.  The sky and the ground blurred together as he tumbled end over end, desperately trying to right himself.  He shot a glance over his shoulder and fear gripped him as he simultaneously felt himself falling and saw that his glider had retracted comfortably into its origin.
+
+Aether steeled himself, willing focus back into his mind and pushing away the fog that had forced its way in.  He felt his glider catch the breeze once more and he was left staring after the speeding dragon, who was rapidly fading into the distance ahead of him.
+
+Suddenly, he felt another push from behind, this one much gentler but no less speedy than the dragon’s passing moments ago.  This push continued without stopping, though, and he soon felt himself racing through the sky at alarming speed.
+
+As he raced above the clouds, Aether caught sight of a small silver blur just ahead of him, tumbling erratically.  The powerful wind current continued to push him, so he held out his hand as he approached and…
+
+Paimon!  The silver blur was none other than his friend and Teyvat’s best travel guide! She must have been swept up by one of the cyclones in Mondstadt and thrown way up here, like I was, Aether thought, suddenly relieved.  He kept his hand outstretched and as he passed the tumbling pixie, caught her by her foot.
+
+“Wah, put me down—Paimon wants down,” she cried, visibly unsettled at flying several orders of magnitude higher than she normally floated.  As she cried out though, she looked up and saw that her rescuer was the one she had been hoping for.  “Traveler!” she shouted happily, grateful to no longer be tumbling like a tin can in a hurricane.  That’s when she noticed.
+
+“Huh? How are you staying afloat like this with just a Wind Glider?” she shouted incredulously over the roar of the passing wind.  Aether shrugged and was about to confess to his luck when a gentle rhythmic, boyish voice rang out around them, carried on the breeze.
+
+“I'm preventing your fall with the power of a thousand winds.”  Both Aether and Paimon looked at each other in surprise and confusion.  “Now, concentrate. See yourself grasping the wind. Harness its energy.”
+
+“Who... who said that!?” Paimon looked around frantically, as though expecting to find the speaker flying alongside them.  Aether didn’t think; in a heartbeat he had reached out his hands in front of him, channeling the Anemo energy he had already harnessed before.  He felt the gentlest brush of a breeze against his fingertips as bolts of Anemo energy shot from his hands towards the fleeing dragon.
+The dragon screeched its disapproval as the beams of Anemo energy shot through its scaled feathers, splitting them and causing them to spread in disarray.  In desperation to be free of its suddenly-speedy pursuer, the dragon twisted and writhed in every direction, beating its wings against the current.  Despite the dragon’s violent protests, the Anemo energy continued to find its mark on its head, wings, and tail.  One particularly potent blast of Anemo pierced the nape of its neck, impacting an already-swollen scar from a previous incident.
+
+The massive aquamarine creature had had enough; it threw its wings wide into the current, catching it and rocketing straight up through the broken ceiling of cumulus clouds above.  To its pursuers, it almost appeared to have instantaneously vanished.  Its shadow upon the clouds flashed away and left nothing but broken wisps of water vapor and a slowly-descending pair of travelers.
+
+The look of shock and surprise on Aether’s and Paimon’s faces didn’t last long, as the current that had formerly been speeding them along ceased to ply its way through the canyons of growing thunderclouds.  The air became suddenly still, with naught but the whispered rustling of the glider wings to accompany their descent.  The soft, lyrical words spoken on the breeze had also ceased, leaving the Traveler and Paimon to their thoughts as they gently glided down towards the cathedral plaza below.
+
+Minutes passed as they descended, until finally Aether’s feet touched the stone tiles of the plaza.  His glider collapsed itself back into its container and Paimon finally let go of his arm, grateful to be once more on the ground.  Well, in the air close to the ground, anyway. From the great steps surrounding the bulwark came a shout.
+
+“Traveler!”  The Crimson Knight came sprinting over, and would likely have bowled him over if she hadn’t thought better of her momentum a second before impact.  Amber came to a stumbling stop, grabbing Aether by the shoulders and spinning him round to look him over.
+
+“A—Are you hurt?” she stammered, visibly shaken by the ordeal.  Aether could only muster a shake of his head, his energy drained as the adrenaline rush from being thousands of meters up suddenly subsided.  Over the ominous low rumble of distant thunder came the sound of clapping, slow and deliberate.  Amber kept her focus on Aether, still trying to ascertain his condition; but both Aether and Paimon were instantly captivated by the person who had appeared before them.
+
+The figure approaching them was slender, tall, and elegant.  His gait was measured and refined, as slow and purposeful as the clapping of his gloved hands.  His face could only be called beautiful, by anyone’s standard.  A piercing azure eye took them in at a single glance, the other eye covered with a simple eyepatch beneath unkempt locks of navy-blue hair.  The young man shrugged his right shoulder and spoke in a deliberately even tone, the swaying of his wolf-furred cape communicating more personality than his voice seemed to be capable of.
+
+“You've actually got the power to go up against the dragon.”  His expression remained unchanged as he asked, “Are you a new ally... or a new storm?”
+
+Amber immediately took up a position on the man’s right, crossing her arms as she began to explain the situation to what appeared to Aether to be her superior.
+
+“Stormterror... Stormterror is attacking Mondstadt itself!” Amber fumbled with her words, emotion getting the better of her as she prepared to offload her entire report in one breath.  Kaeya, you've come at the right time. We must…”
+
+Kaeya held up an authoritative hand, stopping her as he smiled lightly.  “Hold on, Amber. Are you perhaps forgetting to introduce us?”
+
+Aether and Paimon stared mouths agape at this incredibly elegant but seemingly flippant individual, whose priorities were apparently misplaced enough to warrant a formal conversation amidst a regional crisis.  Amber seemed less bothered by the strange request.
+
+“Oh, um, right. This is Kaeya, our Cavalry Captain.” Amber faced the Traveler and Paimon, holding out a hand of introduction to Kaeya.  She then held out her other hand as she introduced the two of them, in turn.  “Kaeya, these two are travelers from afar, the Traveler Aether, and Paimon.”
+
+Kaeya’s expression returned to its discomforting neutrality.  From afar? Is that all we know of them? he thought cynically to himself.  Kaeya was marginally disappointed that his subordinate had so little intel to deliver to him, but his cynicism was cut short as Amber launched into a full explanation of all that had happened.
+
+Several minutes of silent listening later, and Kaeya uncrossed his arms, seemingly accepting of the details he had received from the Outrider.  His posture relaxed a bit, but his voice remained devoid of emotion as he turned his head to speak to Aether.
+
+“I see. Welcome to Mondstadt.  Though, you haven't arrived at the best of times, I'm afraid.  I understand the anguish of being separated from family, truly, but I'm not really sure why you're looking for the Anemo God…”  Here Aether squirmed uncomfortably, for he had not known anyone here long enough to be comfortable retelling his and his sibling’s tale in detail once more.  His relief came quickly as Kaeya’s expression broke into a true smile for seemingly the first time, his voice suddenly ingratiating and charming.
+
+“But everyone has their secrets, right?”  His eyes squinted sharply for a moment before relaxing.  “Haha, relax! I won't press you for more.  First and foremost, on behalf of the Knights of Favonius, I would like to extend our thanks to you for your help just now.”  Kaeya held out his hands in welcome, nodding slightly to the barracks belltower behind him as he did.  Aether noticed the nod, and figured that the barracks he had passed earlier must belong to this “Knights of Favonius” group.  Now was probably the time to keep himself humble, and possibly make some allies on his search for his sister.
+
+“Well, we couldn't just leave the situation to fester,” he offered.  Kaeya nodded approvingly at Aether’s modest response.
+
+“Your fight to defend the city against the dragon just now was witnessed by no small number of citizens.  The Acting Grand Master of the Knights of Favonius is also very interested in meeting you, and formally invites you both to our headquarters.”
+
+Aether and Paimon glanced at each other, and then to Amber, who had replaced her look of concern with a look of anticipation.  It seemed the best choice at the time, so the Traveler nodded, and the group departed down the wide bulwark stairs towards the headquarters building.
 
 ## Knights of Favonius
 - Cutscene
