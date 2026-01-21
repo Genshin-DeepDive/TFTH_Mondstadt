@@ -1,7 +1,7 @@
 # Prologue: Act 1 - The Outlander Who Caught the Wind
 <sub>Created by [u/Genshin_DeepDive](https://www.reddit.com/user/Genshin_DeepDive/)</br>
 Created on 2026/1/11</br>
-Updated on 2026/1/20</sub>
+Updated on 2026/1/21</sub>
 
 # Completed Contents
 [Intro](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#intro)</br>
@@ -12,6 +12,7 @@ Updated on 2026/1/20</sub>
 [Going Upon the Breeze](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#going-upon-the-breeze)</br>
 [City of Freedom](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#city-of-freedom)</br>
 [Dragon Storm](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#dragon-storm)</br>
+[Knights of Favonius](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#knights-of-favonius)</br>
 
 ## Intro
 Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
@@ -455,38 +456,60 @@ Several minutes of silent listening later, and Kaeya uncrossed his arms, seeming
 Aether and Paimon glanced at each other, and then to Amber, who had replaced her look of concern with a look of anticipation.  It seemed the best choice at the time, so the Traveler nodded, and the group departed down the wide bulwark stairs towards the headquarters building.
 
 ## Knights of Favonius
-- Cutscene
-- Third-person events without Aether
-- Kaeya leads us into office
-- Dialog
-- Kaeya technically retells the story of what happened
-- Leave Lisa “leaning nonchalantly” on banister railing while talking
-- Confusion over “three of four” Four Winds temples
-- Talk with the KoF
-> [!WARNING]
-> This section's dialog is severely disjointed and doesn't flow in its current location.  It'll need to be relocated.
+Jean wrung her wrists nervously, staring at her polished boots as though they had betrayed her.  Where are they? she wondered.  She had told Kaeya to report back with information on the rapidly-developing Stormterror crisis, and he had already been gone for nearly twenty minutes.  With Mondstadt’s potential survival, and the livelihood of its citizens, on the line, Jean couldn’t afford to waste time.  Unfortunately, Kaeya’s most effective methods were often his slowest ones.  Jean glanced up at the clock again.  If the hands had moved, she hadn’t noticed.  Maybe this clock is running slow, she illogically tried to convince herself.
 
-K:  You’re not bad with that wind glider.  Your gliding style seems familiar…
-A:  How’d you get your eye patch?
-K:  My eye patch?  Wanna hear my story, eh?  I didn’t have time to introduce myself properly… Well, it wasn’t on my mind to begin with.  Ehe, my apologies.  I’m Kaeya, Cavalry Captain for the Knights of Favonius.  We can talk more after we get things sorted.  I know a great place more fit for a chat.
-A:  Why is Jean the Acting Grand Master?
-K:  The Grand Master is currently off leading an expedition, so the Master, Jean, has stepped in to oversee the Knights while he’s gone.  Hence, you’ll hear many refer to her as the Acting Grand Master.  When the Grand Master left, he took the vast majority of our knights with him, leaving the Acting Grand Master with far more responsibility and stress.  Come to think of it, it must have been difficult for Jean.
-- (Take note of Jean’s stress level, and take note of the emptiness of KoF HQ)
-L:  I’m Lisa, the librarian.  Do you need anything, cutie?
-A:  I’d like to know more about monsters.
-L:  The monsters out in the wild?  We’ve got many resources here in the library.  Making good use of elemental advantages is the key to winning any battle.  By the way, would you be interested in having a part-time job here?  We need people to… need people for doing… We just need more people.
-A:  How do we fight Stormterror?
-L:  A way to fight against Stormterror…  I’m sorry, but there’s no way to do it alone.  Judging by the level of its Anemo power, it’s definitely not an ordinary creature.  I could teach you some elemental basics, so you’ll have an idea of what I’m talking about.
-J:  Thank you for accepting our invitation, traveler.
-A:  How do we fight Stormterror?
-J:  Its change in size and power really is suspicious.  But for the Knights of Favonius, our priority is to deal with the aftermath of this attack.  The Grand Master entrusted the Knights of Favonius to me.  I cannot let him or the people of Mondstadt down.  I must get to the bottom of this…
-A:  Are all the knights as… “strict” as Amber?
-J:  I heard you and Outrider Amber had a misunderstanding.  (Need to introduce report on this earlier.)  Please forgive her.  She was just doing her job.  Talk to Amber sometime.  I’m sure you’ll like how energetic she always is.
-Am:  Wanna team up with me?  Huh, I should warn you though, I don’t slow down for anyone, greenhorn or otherwise.
-A:  Jean seems to be pretty reliable.
-Am:  With Jean by our side, nothing can stand in our way!  At least, that’s what I wanna say… but I can’t keep spouting that same old line.  She always dashes headlong into the heat of battle, and we want her to take better care of herself.  I really hope that one day I can look Jean in the eye and tell her she doesn’t need to worry anymore, because we have her back.
-> [!NOTE]
-> Make Jean’s conversation first, as the other KoF walk out the door, then do Amber’s quest, then Lisa’s, then Kaeya’s, and introduce their dialog here then.
+Intervention was needed: Mondstadt needed its Grand Master.  Well, it needed its Acting Grand Master, but in their absence, Jean’s stout leadership would have to do, and right now stout leadership demanded immediate decision-making.
+
+“Jean, what’s the hurry?  I thought we agreed to meet them here.”  A voice from her right stopped her short; Jean didn’t even realize she had been instinctively marching towards her office door.
+
+Jean looked over and saw an elegant woman with cascading brunette hair reading from a dusty thaumaturgical tome that she had only recently pulled from the shelf.  Her most striking feature was the nearly half-meter indigo wide-brimmed hat she wore, to the base of which she had pinned a deep purple flower.  The hat often reminded Jean of Dragonspine, with its sloped nature and sharp peak.  Come to think of it, the mage’s personality was often as cold as Dragonspine’s snowy clime, as well—especially when asked to work.
+
+Jean attempted to calm her racing mind, but found herself unable to focus.  “There have been sightings of Stormterror outside the city,” she rambled on, almost mumbling.  The mage appeared unfazed, nonchalantly closing the grandiose but ultimately unsatisfying droll book and placing it on the railing between her and Jean.  She leaned her elbows onto the railing, resting chin against fist.  Jean couldn’t understand the mage’s apparent lack of concern.
+
+“Once we meet, we must…” she continued hurriedly, glancing nervously back to the door.  The mage interrupted firmly but tenderly, as a mother might stop a rambling, crying child.
+
+“Jean.  Relax.  I promise, I’ll lend a hand when the time comes.”  The words were delivered with a quiet confidence that belied the mage’s elegant, sophisticated exterior.  Despite that quiet confidence, Jean found herself ill comforted.  Fortunately for her nerves, she was abruptly interrupted by a disciplined, firm knock on the office door.
+
+“Enter,” she commanded with a nervous voice.  The door opened to reveal two of her Knights, and Mondstadt’s newest guest of honor.  Her cavalry captain spoke on entering.
+
+“Jean, I’ve brought them,” Kaeya stated matter-of-factly, motioning towards Amber and the two traveling companions.  He then succinctly began to relay a rather detailed intel report to the other Knights.  Aether listened patiently without interjecting.  After only a few words from Kaeya, Aether realized that the nonchalant cavalry captain was much more attentive than he let on.  His report was thorough, with no detail left untouched, and every sentence was colored with the brush of a professional scout, commanding officer, and keen observer.  Aether would need to avoid underestimating Kaeya merely because of his seemingly-flippant attitude.
+
+These thoughts had finished running through the Traveler’s mind just as Kaeya finished his report.  “And once it was over I brought them straight here.”
+
+Jean placed her hand over her chest in way of formal greeting.  Her face showed less concern than it had before, but she didn’t seem to be ready to hold a formal banquet in honor of her new guests.  She spoke with an air of gravity appropriate to the crisis at hand.
+“Mondstadt welcomes you, windborne travelers.  I am Jean, Acting Grand Master of the Knights of Favonius.”  She motioned a gauntleted hand to her right.  “This is Lisa, our resident Librarian.”  Lisa appeared far less concerned about the Stormterror crisis than her uniformed superior.
+
+Her eyes glistened with mischief as she asked,  “Oh! Are you sweeties here to help us out?  You're both so adorable!”  Paimon noticed that Lisa was eyeing the Traveler up and down as she complimented the two of them.  Paimon certainly felt less flattered by Lisa’s oddly flirtatious tone.  
+
+Lisa continued,  “Sadly, the timing is regrettable.  Stormterror has caused quite a ruckus in the region since its recent resurgence.  Simply put, Mondstadt's elemental sphere and Ley Lines are now akin to a yarn ball in the paws of a kitten.”  Lisa paused here to look her arms up and down before grimacing and holding a gloved hand to her forehead.  She looked pained as she complained,  “For a mage, it couldn't get much worse. My skin is one elemental particle away from a full-blown breakout.”
+
+Paimon scoffed a bit at the skin comment, but both Jean and Kaeya seemed to be in a serious mood, so she put a lid on her humor… for now.  Jean continued Lisa’s thoughts.
+
+“If it weren't for this interference, the Knights of Favonius would have better ways to help you than just putting up missing person posters.”  Aether perked up at the offer of assistance in finding his kidnapped sibling, but Jean didn’t pause to discuss the matter.  “We simply ask that you repose in Mondstadt while we help you seek out your sister.”
+
+Aether felt frustrated, but he realized that he knew next to nothing about Teyvat, its laws, or its people, and he was ill-positioned to force anyone to assist him.  Even with Paimon’s excellent guidance, he was unlikely to get answers through force or coercion.  This isn’t to say that he didn’t feel altruistically about the Mondstadt crisis, but he still dreaded getting dragged into situations outside of his control.  
+
+He pondered for a moment, letting the silence hang in the air before confirming,  “I really should help out as well.”  Paimon stumbled over her words in her hurry to support the Traveler’s offer of assistance.
+
+“P-Paimon will help too!”
+
+Kaeya nodded once.  “Good. In that case we need a plan.”  The Knights collectively turned to face Jean, the de facto strategist among them.  Jean considered for a moment before revealing her strategy.
+
+“With Stormterror now directly attacking Mondstadt, we may have an opportunity to cut this problem off at the source.”  Jean glanced to the violet-clad mage.  “Lisa has revealed the sources of Stormterror's power with her detection magic.”  Detection magic? Aether wondered.  Such abilities must be convenient for a paramilitary organization like the Knights. 
+
+Kaeya apparently agreed, asking, “Is that so?”
+
+Lisa picked up the conversation in Jean’s stead, explaining, “They're located in the abandoned Four Winds' Temples.  Stormterror's ability to whip up these kinds of storms can be attributed to it drawing power from the temples.”
+
+Jean crossed her arms while relaying the next steps to the group.  “Our objective is to deal with three of the four temples.”  Aether noted the verbal emphasis on “three,” but saved his curiosity for a more appropriate moment.  Jean glanced around the group, and stated, “I trust everyone understands why we are only dealing with three.”
+
+Paimon shrugged dramatically and quipped, “Paimon doesn't.”
+
+Aether frowned a bit at his partner’s bluntness and whispered,  “It must be a local thing.  We'll ask later.”
+
+It didn’t seem like he’d have the opportunity, though.  Jean’s previous jittery anxiety returned in full force as she mustered her strength of will and ordered, “Knights of Favonius, time is against us.  The storm is rampant. There is no point in maintaining a defensive position.  We need to take initiative and act before the situation escalates.”
+
+No one in the room argued.
 
 ## Winds of the Past
 To stop Stormterror’s siege, you must venture out and eliminate the elemental flows left within the ruined Temples of the Four Winds.  Amber is waiting for you at the Temple of the Falcon.
