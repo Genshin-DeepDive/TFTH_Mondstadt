@@ -1,7 +1,7 @@
 # Prologue: Act 1 - The Outlander Who Caught the Wind
 <sub>Created by [u/Genshin_DeepDive](https://www.reddit.com/user/Genshin_DeepDive/)</br>
 Created on 2026/1/11</br>
-Updated on 2026/1/21</sub>
+Updated on 2026/1/23</sub>
 
 # Completed Contents
 [Intro](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#intro)</br>
@@ -13,6 +13,7 @@ Updated on 2026/1/21</sub>
 [City of Freedom](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#city-of-freedom)</br>
 [Dragon Storm](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#dragon-storm)</br>
 [Knights of Favonius](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#knights-of-favonius)</br>
+[Winds of the Past](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#winds-of-the-past)</br>
 
 ## Intro
 Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
@@ -512,32 +513,136 @@ It didn’t seem like he’d have the opportunity, though.  Jean’s previous ji
 No one in the room argued.
 
 ## Winds of the Past
-To stop Stormterror’s siege, you must venture out and eliminate the elemental flows left within the ruined Temples of the Four Winds.  Amber is waiting for you at the Temple of the Falcon.
-Dialog introduction to WQ “Sharpening the Axe Won’t Hinder the Work”
-- See people cowering and taking shelter in Mondstadt’s shopping plaza
-- Amber leaves our party and goes ahead of us to the Temple of the Falcon.
-- We teleport nearby.
-- We see our first domain door and Amber standing nearby.
-- Dialog
-- Stormterror as Four Winds lore drop
-- Enter domain
-The Knights of Favonius have been mobilized to contain Stormterror’s destructive rampage.  Venture forth with Amber the Outrider to the Temple of the Falcon and stop Stormterror from gaining the power within.
-See what appears to be an underground massive space
-- Amber dialog
-- Amber demonstrates pyro archery
-- First door of resurrection (how to explain?)
-- First use of elemental sight? (not within lore, just the tutorial)
-- Fight hilichurls
-- Horn and amber dialog
-- Dialog about Baron Bunny
-- First use of explosive barrels
-- First elemental monument (pyro)
-- First wind current
-- See Dragon’s Breath stone imbued with Anemo power
-- Break it
-- Dialog
-- Amber mentions Lisa, so this seems like a good spot to “return to Mondstadt and bring it up”
-- Leave domain
+After Jean’s rally speech, Kaeya and Lisa both dismissed themselves.  Lisa seemed to be deep in thought, but Kaeya’s opinions were—as before—impossible to discern.  Aether mulled over Jean’s strategy, wondering which Temple of the Four Winds should be dealt with first.  Jean interrupted his musings.
+
+“Thank you for accepting our invitation, Traveler.  We really appreciate your kind assistance.”
+
+Aether shook his head in polite dismissal.  “Think nothing of it, but… what is the plan to deal with Stormterror?” he inquired.
+	“Well, its change in size and power really is suspicious.  But, right now, the Knights of Favonius’ top priority is to deal with the aftermath of the previous attack.  The Grand Master entrusted the Knights of Favonius to me, and I cannot let him or the people of Mondstadt down.  I must get to the bottom of this…”  Here Amber interjected, having been silently fiddling with her bandanna while listening to the conversation.
+  
+“Hey, wanna team up with me?” she asked in her typical bubbly style.  Aether was about to agree when her tone shifted suddenly and she took on a more serious attitude, wagging her finger in caution.  “I should warn you though, I don’t slow down for anyone, greenhorn or otherwise.”  With that cheekily confident disclaimer, Amber turned on her heel and quickly departed for the lobby.  Aether turned his attention back to Jean, who didn’t seem all that surprised by Amber’s rather sudden shift in recruitment approach.
+“Are all the knights as “strict” as Amber?” he inquired, miming air quotes with his fingers.
+
+Jean laughed in response to the strangely-phrased question, and answered apologetically, “Ah, I heard you and Outrider Amber had a misunderstanding.  Please forgive her; she was just doing her job.”  Aether waved his hands dismissively, not really finding offense in Amber’s actions.   She continued, “If you keep talking with Amber I’m sure you’ll grow to like how energetic she always is.”
+
+Aether nodded and smiled, eager to be on his way.  Jean bowed her head in gratitude as he made his departure from the office.  In the lobby, he found Amber loading her quiver with arrows that she had conjured up from somewhere.  He walked over and pointed back to the closed door of Jean’s office.
+
+“Jean seems to be pretty reliable.”
+
+Amber looked up from her reloading to nod multiple times enthusiastically, her bandanna’s “ears” flopping rather humorously as she did.
+“With Jean by our side, nothing can stand in our way!” she gushed, before calming a bit to add, “at least, that’s what I wanna say.  But I can’t keep spouting that same old line.  She always dashes headlong into the heat of battle, and we want her to take better care of herself.” Amber show a regretful glance towards Jean’s office.  “I really hope that one day I can look Jean in the eye and tell her she doesn’t need to worry anymore, because we have her back.”  Aether and Paimon had little to add, and fell quiet as the trio departed the Knights of Favonius Headquarters.
+
+As they marched back through the city, Aether noticed that the previous storm, while not as fierce as it had been with Stormterror present, was still whipping about strong winds and smothering Mondstadt in gray-green clouds.  The shopkeepers and their former clientele were still sheltering in many places on the edges of the plaza; some had sustained deep cuts and dark bruises from falling roof tiles or stone debris blown off of Mondstadt’s monumental walls. The traveling party kept silent for most of their journey, departing Mondstadt’s front gates and crossing the stone bridge towards the wilderness beyond.  As they finished crossing the bridge, Amber pointed out a giant set of stone doors set into a hill in the distance.
+
+“That’s it up ahead—one of the deserted temples of The Four Winds.  These temples have been left to waste for years now. The people of Mondstadt almost never come here,” she explained. 
+
+A deep red glow penetrated the cracks in the doors, lending them a rather ominous appearance.  The carvings and artwork set into the stone frame gave Aether the impression of a temple or other ceremonial site.  However, the intricacy and artistic effort of the inlays carved into the frame and nearby pillars left Aether wondering why such an important site would be left to ruin.
+
+As they approached the short stairwell leading to the temple, Amber held up a hand in caution.  Aether slowed suddenly, and his floating travel guide promptly bumped into him.  He turned to see Paimon rubbing her forehead sheepishly; it didn’t seem like she had been paying attention to any of the story Amber had told them.
+
+“There's a chance there's a monster nest or a hilichurl camp inside,” Amber whispered.  Both Paimon and Aether wondered if there was any point in whispering about enemies on the other side of a great door, but Amber continued unabated.  “Even Stormterror has given up on its own temple.”  This time Aether forgot to pump the brakes, and stumbled awkward into Amber in his surprise.
+
+"Stormterror?  Wait, did you just say ‘its own temple’?” he bumbled out, catching his balance.
+
+“Y-yes,” Amber replied, suddenly remembering that her companions were not Mondstadt locals.  “I also find it hard to accept, but... Stormterror was indeed once one of The Four Winds.”
+
+Amber froze suddenly, her cautioning hand plunging into her quiver to draw an arrow.  Aether drew his weapon in turn, and Paimon did what she did best… and promptly took shelter behind the Traveler.
+
+“Eh!?” she shouted, startled, before catching her breath and reducing her voice to a rather loud whisper.  “Ehhhhhhhh!?  What, what is it?”
+
+Amber looked out from behind the decorative pillar she had taken shelter behind, then back at her party.
+
+“Wait... Did you just feel that?  The wind here... Something's off.”  Amber stood and drew her bow, notching an arrow as she did so, while leaving the string relaxed.  Her professional Outrider personality shone through once more; she was all business now.
+
+“Let's go in and take a look, Traveler, but be careful—the dragon's power is disturbing this area.”  Amber proceeded to take the stairs two at a time before placing her hands on the great stone doors.  A deep rumble and the clamorous sound of great chains being rattled about came from within as the doors swung outward.  Amber’s impatience to resolve the crisis suddenly showed itself.
+
+“Everyone in Mondstadt is still getting blown about by the storm.  Every second we waste is a mark against the name of Favonius. Let's get in that temple, stat!”
+
+Aether nodded his agreement, and as the doors swung wide enough for them to enter, the trio raced into the blinding abyss beyond.  Aether wondered what they would find within, but as the blinding light ahead of him filled his vision, he found himself suddenly unable to wonder about anything at all.
+
+Aether wondered if he was falling, flying, or maybe not even moving at all.  His vision had become blackness darker than any night he had ever seen in Teyvat, and his other senses weren’t giving him any useful information, either.  He began to worry about how long he might be trapped in this strange liminal space when his vision suddenly returned.
+
+Aether felt the ground come into contact with his feet, and he immediately glanced around, surveying his surroundings.  The trio of adventuring companions had been essentially transported to a space that appeared to be within a vast cavern underground.  Surrounding the jagged-edged stone platform on which they stood were vast pillars of mountain stone reaching seemingly indefinitely into the heavens.  Scattered around these many pillars were ruins—some elegant, some primitive—but all destroyed beyond any recognition of their original purpose.
+
+In front of the group stood a towering stone door, flanked on either side with what, at first glance, appeared to be ornamental glass lanterns stood on narrow, intricately-engraved pillars.  To the left of the door, adjacent to one of the lamp pillars was a one-meter high stone cube, with polished bronze inlay on one of its sides.  The cube stood on one of its vertices, standing diagonally; in this way, the bronze-inlaid face presented itself.  Amber noticed the strange cubic device, and pointed Aether to it.
+
+“You can use that console to open the door,” she stated with surprising confidence.  Aether supposed she must have plenty of experience delving into strange, mysterious ruins to be able to know that for certain.  Remembering Amber’s skill with her bow and glider from earlier, Aether chose not to doubt her abilities, and placed his hand on the bronze inlay.
+
+To his and Paimon’s surprise, the central diamond structure in the middle of the door rotated and slid away, revealing a horizontal split in the door’s surface.  The bottom fell with an ominous thud while the top portion rumbled its way out of sight.  An actinic cyan glow lined the edge of the retreating door panels and cast bizarre shadows about the space as the door rested in the fully open position.
+Through the now-open door was an extent of ruined halls and ledges stretching far into the hazy distance.  The faint glow of what seemed to be moonlight fell through the nonexistent ceiling and illuminated numerous corridors stretching away from the central room ahead.  Amber stared at the great ruined walls with mouth agape.  “Wow! I can see so far into the temple!” she said, awestruck.
+
+The corridors leading away from the area were, unfortunately, blocked by great clusters of thorned vines, which appeared dead but were obviously still deathly sharp to the touch.  Aether charged up to one such cluster and summoned his sword for a mighty swing.  Dull as his sword might be, surely, with an accurate movement he could easily slice the impeding vines…
+
+… but no such luck.  His swing collided with a creaky thump against the intertwined branches, barely nicking them.  If he was going to have any chance of cutting these vines, he was going to need something significantly sharper, he thought to himself.
+
+Swish!  A hissing object sizzled past Aether, embedding itself into one of the vines.  Or something hotter, he thought wryly as one of Amber’s Pyro arrows made short work of the dry, dead brush.  Amber placed her hands on her hips with a confident, smug smile, then nodded her head to the side, towards the corridor that the now pile of ash revealed behind it.
+
+After several corners, the corridor opened to a greater stone court surrounded by much higher walls than the ones in the chamber before.  Guarding the edge of a drop-down into said court was another heaping pile of dead brush; and just behind the pile, a hollow diamond gateway or window just slightly taller than a person stood, its sides overgrown in vines that seemed significantly healthier than the ones that made up the dead piles of brush they had encountered before.
+
+A quick flaming arrow from Amber’s bow dealt with the dead vines easily, and as the group approached, the diamond-shaped object suddenly erupted in verdant light.  The vines choking the sides of the gateway seemed to reconstitute themselves, leaves sprouting from the cracks in the suddenly revitalized branches.  After reanimating, the gateway remained filled with a vertical plane of green light, glowing green elemental particles rising from the base like bubbles through a body of water.  Geometric engravings carved into the base of the gateway platform also glowed with a soft green light.  The whole thing seemed otherworldly to Aether.
+
+As he was busy examining the curious glowing gate, Amber drew her bow once more and let off a fiery shot towards a Hilichurl that had somehow decided to make the lower stone courtyard its camp.  The Hilichurl spun at the sound of Amber’s bowstring twang, raising the wooden shield on its right arm just in time to catch the burning projectile.  Unfortunately for the Hilichurl, its wooden shield would prove inadequate defending against the fierce Pyro energy on the end of Amber’s arrow.  Fortunately for it, though, its allies would serve a much better defense.
+
+“Oh no! A horn!” Amber shouted with concern.  Aether spun towards the developing combat situation as Paimon took shelter behind a railing surrounding one of the courtyard’s upper ledges.  He looked down in time to see the Hilichurl’s crude wooden shield lying on the ground burning… and a similarly crude wooden horn drawn up to its mask.  A long drawn-out warble burst from the mouthpiece, and two Hilichurlian fighters came stumbling down the far steps, clubs and shields flailing as they responded to their comrade’s request for help.
+
+It would be too late for the horn-blower.  Amber’s next shot pierced straight through the horn and into the mask, making for a rather gruesome wound that mercifully left the Hilichurl with no time left to consider its luck.
+
+“The horn must have got them riled up!” Amber shouted as Aether leapt down from the ledge, sword at the ready to deal with the two remaining Hilichurls.  “Well, good thing I've prepared my secret weapon: Explosive Puppet ‘Baron Bunny’!”  Aether froze in complete disbelief as Amber drew out a small red stuffed rabbit that, oddly enough, looked suspiciously like her.  Amber tossed the stuffed creature down to the base of the ledge where she was perched, and the puppet suddenly stood up and began dancing a jig!
+
+Both Paimon and Aether were dumbfounded by this point, and whatever threat or seriousness the situation possessed had suddenly vanished from the room.  The two Hilichurls seemed enraged by the presence of the dancing Outrider-esque bunny doll, and sprinted over to give it a piece of their minds.
+
+As one of the Hilichurls raised its club to strike the adorable stuffy, a corner of Amber’s mouth rose in tandem, into a smug grin.  The club came down, and with a rather spectacular fiery whomp the two Hilichurls and the heroically sacrificing Baron Bunny vaporized into dust and elemental particles.
+
+It seemed that fiery arrows weren’t the only form of fire Amber could create with her Pyro abilities, Aether remarked to himself.  He reminded himself to never question Amber’s professionalism again, lest he be on the receiving end of a stuffed bunny “gift”.
+
+Paimon spiraled down to the two combatants, following them at a distance as they sprinted up the steps leading to the next chamber, an enclosed room with torn red banners strung up haphazardly on the walls.  As Aether and Amber entered, Amber caught sight of yet another pyrotechnic surprise… red barrels stuffed with the bulbous form of a Pyro slime.  A small group of Hilichurls was sat around a campfire near the barrels; such was their poor luck.  Amber had her bow strung and drawn in a heartbeat.
+
+“See those explosive barrels over there?  Well…” She drew a sharp quick breath, held it, and loosed another fiery meteor of an arrow.  She finished as it flew true, “One shot should be able to blow them up!”  As if to punctuate her sentence, a clap of thunder erupted in the enclosed space, leaving Aether and Paimon’s ears ringing lightly from the impact.  Ringing ears was the least of the Hilichurl’s concerns.  Only permanent shadows of ash remained where they had been seated moments before.
+
+Definitely not doubting her again, Aether resolved, sheathing his sword in the absence of any new, unburned threats.  Amber came over, slightly out of breath—more from the excitement of battle than from exhaustion, Paimon thought to herself.  She had also resolved herself to never be a recipient of Amber’s cuddly gift.
+
+One of this labyrinth’s many stone doors had opened on the far side of the dark, firelit chamber, and through it Aether spied an elegantly carved soapstone monument.  The imposing two-meter monument was roughly cylindrical, with four simple arched wings branching vertically off the sides.  Four shield-shaped reliefs rested between the raised wings, and in front of each floated an ethereal image of a fiery blaze.
+
+“Isn't this... a Pyro Monument?” Paimon asked curiously, approaching the pillar.  Amber ignored the Pyro monument, instead shielding her eyes with her hand and gazing up and into the distance.  Aether followed her gaze and saw an intimidatingly wide gorge spanning the distance between the platform they had arrived on and a giant temple-like structure on the other side.  Amber was focused on the structure opposite.
+
+“It's so high... but it seems like there's something up there,” she sighed dejectedly.
+
+“How do we get across?” Paimon queried, head tilted like a puppy’s.  Aether glanced over at the Pyro Monument.  Paimon saw what he was looking at and her face lit up in recognition.  “The Pyro Monument!  If we hit it with a powerful Pyro attack, we might trigger it!”
+Aether shrugged helplessly, his Anemo powers and sword skills suddenly rather useless.  Amber grinned smugly once more, happy to show off her usefulness in such situations.  She summoned her bow, notched an arrow, and sent a fiery projectile straight into the surface of the monument.  Aether flinched, expected a ricochet to shrapnel off and put his eyes out, but instead the arrow vanished, as though consumed, and a radiant red beam of light shot out of the top of the monument.
+
+As the light dimmed to a mere glow, a thundering rumble came from deep within the bowels of the cave they were in.  Aether crept slowly to the edge of the dividing chasm, trying to spot the source of the sound.  But, as he reached the edge and leaned over a bit to peer down, a roaring rush of wind shot upwards through the chasm, picking him up and knocking him back on to his rear.  Paimon’s face transitioned hilariously quickly through surprise at the monument’s activation, to fear at the noise and sudden gust, and then to humor as Aether fell back onto his rump.  Aether gave her a sharp glare but couldn’t help but smile himself.
+
+Amber threw herself daringly into the rising winds, her glider deploying and carrying her to the top of the temple structure almost instantly.  Aether shrugged again, making a better effort than during his gliding lesson to keep himself upright in the Anemo swell.  After only a few seconds, he was at a higher elevation than the top of the temple, and was able to glide down to a balcony or outcropping of sorts near the upper edge.  Amber was already ahead of him, ascending the nearby staircase slowly, bow drawn.  As Aether stumbled onto the platform clumsily (the glider was going to take getting used to), she shouted back to him.
+
+“Dragon's Breath! Is that where the power is coming from?”  Aether had never heard of such a thing, but upon running to the top of the stairs, he soon understood.  A lumpy, translucent turquoise stone surrounded in swirling Anemo energies sat in the middle of a cramped corridor.  He was about to head over and investigate when Amber said excitedly, “Great, let's smash it!”
+
+Remember… Baron Bunny, Aether cautioned himself.  There was nothing to consider; Amber had commanded him.  He leapt forward, drew his sword, and made his contribution to the underground labyrinthine adventure.  Steel smashed against crystal as the Dragon’s Breath shattered into hundreds of fine shards and splinters.  The swirling Anemo energy formerly spiraling around the short, unrefined stone dissipated into the cavern’s mists.
+
+Amber walked slowly over, her bow relegated to whatever mystical, dimensional pocket she had pulled it from.  “Phew, I'm tired,” she sighed heavily, “but at least this way we've helped Jean out.
+
+In the past, we were at least able to defend the city and keep it safe.  This, of course, is mostly thanks to Jean. But now, with Stormterror directly attacking the city itself…” Amber paused and straightened her relaxed posture, imitating Jean perhaps, Aether thought.
+
+"The winds change, so too should our tactics."
+
+Aether applauded, a bit sarcastically, then said “Sounds deep.  Did you come up with that?”  Amber shook her head and relaxed again, arms crossed over her heaving chest.
+
+“It's what Lisa likes to say.”  Never mind, Aether thought dismissively.  He simply couldn’t imagine the flirtatious and ditzy Lisa coming up with tactical advice.
+
+Amber continued, “Speaking of which, about The Four Winds we were discussing earlier.  If you want to learn more about our history, you can ask Lisa.”  She paused, visibly embarrassed.  “I'm not saying I don't know our history! It's just- I mean- a librarian is supposed to be more knowledgeable than an Outrider, right?”
+
+Aether had to admit that she was right… probably, anyway.  Amber motioned to a dark corridor just beyond where they had destroyed the stone, indicating that Aether and Paimon should follow.  As they walked deeper into the shadows, Aether once again found his senses mixing and twisting together, until the feeling of nothingness returned once more.  This must be the way back to the entrance—but what a horrible way to arrive and depart.
+
+Aether’s thoughts remained jumbled, a great many questions and curiosities tossing about in his mind.  Lisa, he hoped, would have the answers he sought.
+
+RETCON ISSUE:  This section needs to be placed somewhere more appropriate.
+(After leaving the temple — if this is the third temple that has been cleared, the skies clear up)
+ Paimon: Phew, it's finally done.
+ Paimon: Well, all that "ley flow" and "elemental lines" stuff Lisa was going on about should hopefully be back to normal.
+ Paimon: Wanna go back and see how the Knights are doing?
+ Paimon: But if you got anything more interesting to do, Paimon can come too!
+ Paimon: By the way, we obtained another Anemoculus in one of The Four Winds' temples, right?
+ Paimon: We might come across more of them in the future, so don't forget to offer them to the Statues!
+
 
 ## Sparks Among the Pages
 Lisa is in charge of clearing the Temple of the Lion alongside you.
