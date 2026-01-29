@@ -1,7 +1,7 @@
 # Prologue: Act 1 - The Outlander Who Caught the Wind
 <sub>Created by [u/Genshin_DeepDive](https://www.reddit.com/user/Genshin_DeepDive/)</br>
 Created on 2026/1/11</br>
-Updated on 2026/1/23</sub>
+Updated on 2026/1/29</sub>
 
 # Completed Contents
 [Intro](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#intro)</br>
@@ -14,6 +14,7 @@ Updated on 2026/1/23</sub>
 [Dragon Storm](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#dragon-storm)</br>
 [Knights of Favonius](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#knights-of-favonius)</br>
 [Winds of the Past](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#winds-of-the-past)</br>
+[Sparks Among the Pages](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#sparks-among-the-pages)</br>
 
 ## Intro
 Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
@@ -634,87 +635,200 @@ Aether had to admit that she was right… probably, anyway.  Amber motioned to a
 
 Aether’s thoughts remained jumbled, a great many questions and curiosities tossing about in his mind.  Lisa, he hoped, would have the answers he sought.
 
-RETCON ISSUE:  This section needs to be placed somewhere more appropriate.
-(After leaving the temple — if this is the third temple that has been cleared, the skies clear up)
- Paimon: Phew, it's finally done.
- Paimon: Well, all that "ley flow" and "elemental lines" stuff Lisa was going on about should hopefully be back to normal.
- Paimon: Wanna go back and see how the Knights are doing?
- Paimon: But if you got anything more interesting to do, Paimon can come too!
- Paimon: By the way, we obtained another Anemoculus in one of The Four Winds' temples, right?
- Paimon: We might come across more of them in the future, so don't forget to offer them to the Statues!
-
-
 ## Sparks Among the Pages
-Lisa is in charge of clearing the Temple of the Lion alongside you.
-- See Windrise tree after leaving Domain
-- Walk to Windrise So7
-- Meet Godwin, KoF
-G:	I’m, uh… on an exploratory reconnaissance mission.  Do you need help with anything?
-A:	I don’t think I’ve seen you in the city before.
-G:	Oh, you wouldn’t have.  I belong to an elite squadron of the Knights of Favonius, hand-picked and reporting directly to Grand Master Varka himself.  Our job is to be out there on the front line, defending Mondstadt.  We are always called out on top-priority missions, so we hardly have time to hang about in the city.  Speaking of which… Have you ever met a girl called Glory?
-A:	Who is Varka?
-G:	He is the current Grand Master of the KoF.  Of all the people in Mond, he is the most deserving of our trust and admiration.  And that’s not an overstatement.  I am sure my fellow knights share my opinion.  For senior knights like us, there is nothing more glorious than to accompany the Grand Master himself on an expedition.  And I get to be part of just such a glorious expedition!
-A:	Where’s the rest of the expedition party?
-G:	That’s what I wanna know, too!  I… You see… The thing is… *sigh* Forget it, I’m past the point of trying to save face… As Grand Master Varka’s expeditionary party was getting ready to leave Mond, I- I lost a keepsake from Glory and then fell behind when they set off… So now, as you can see, I’ve lost both the keepsake and the expedition party.  I can’t bring myself to go crawling back to Glory like this… If you want to laugh at me, go ahead.  A little laughter might make things more bearable.
-A:	Who’s Glory?
-G:	Glory is the girl I love.  She likes sitting on a bench, listening to the sound of the wind, and feeling the warmth of another body next to hers… That’s what she said, anyway.  If you see her around the city, please…  Ugh, never mind, there’s no need to bother you.
-A:	About your patrols…
-G:	So far, I’ve taken care of quite a few hilichurls and slimes, but there’s always more of them… They’ve been appearing more frequently of late.  I cannot allow them to get any closer to Mond.  My lover Glory is… No, it’s nothing.  Thanks for listening to me.  Stay safe on your travels.  Here’s some of the experience I’ve gained out in the wild – I hope it’ll be useful to you.
-- Gained “Wanderer’s Advice”
-- Walk path to south of the east-west path, towards Windrise
-- See first Seelie, follow, retrieve chest.  No commentary, doesn’t fit with walking path very well.
-- See giant column
-- See Hilichurl camp
-- Clear Hilichurl camp
-- See first Oculus/Anemoculus
-- Anemoculus Paimon dialog
-Anemoculus description: A substance that has accumulated intense Anemo energy.  Offer it to the Statue and help reinstate the power it has lost over the years.
-- Unlock So7, offer Oculus, receive more stamina, activate wind current up to Temple of the Lion
-- Paimon Anemoculus dialog
-- Spot Temple of the Lion from Windrise, begin walking towards it, off-path
-- See Seelie.
-- Follow Seelie across river, see beach in distance when climbing ruin wall
-- Head south on path towards wind current and Hilichurls
-- See small stone arch, wind current, and ruined columns
-- Fly up wind current, land on edge of cliff towards Temple of the Lion
-- Speak to Lisa / Dialog
-- “Why would a Librarian be at the ruins?”
-- Enter domain
-Similar domain description to Temple of the Falcon, just with Lisa’s name instead
-- Domain appears to be built on top of a series of rolling hills with an infinite aurora borealis and night sky above
-- Lisa dialog
-- Lisa confirms using Wind Glider herself, ride wind current
-- First “enclosed domain” with rooms
-- First Electro monument
-- Fight pyro slimes
-- First time fighting in puddle/water
-- Another wind current
-- Chain lightning elemental reaction introduced
-- Fight hydro slimes and hilichurls
-- Lisa Vision dialog
-- Platforming
-- Lisa Vision/Hilichurl dialog – possible early Caterpillar reference? 
-- Dragon’s Breath stone, break it
-- Dialog
-- Four Winds described more
-- Dvalin name dropped
-- Lisa gives us book: Breeze Amidst the Forest, Vol 2
-- Leave domain
-> [!NOTE]
-> Quest technically completes at this point, but we can go back to KoF HQ (likely via Mondstadt central teleporter) to get some Lisa dialog and collect books on different things, as though she had peaked our interest
-> Obtain the following books in Lisa’s office:
-> - Vera’s Melancholy X
-> - Heart’s Desire: Moonlight
-> - Heart’s Desire: Crystal Glaze
-> - Along with Divinity: Prologue
-> - History of Kings and Clans: Prologue
-> - The Legend of Vanessa II
-> - Vera’s Melancholy VI
-> - The Legend of Vanessa I
-> - The Mondstadt Tower I
-> - Hilichurl Cultural Customs III
-> - Heart of Clear Springs III
-> Perhaps we could insert Lisa’s earlier dialog here?
+When Aether regained his senses, he, Paimon and Amber had been deposited upon the steps leading to the Temple of the Falcon.  The trio put their heads together for a few moments to discuss their next course of action.
+
+For Amber, it was time to return to Mondstadt and make a report on her success at the Temple of the Falcon.  Aether was sure she that she’d take ample time to boast to Kaeya and Jean about her impressive contributions to the defense of Mondstadt.
+
+For Aether, finding Lisa to demand explanations was of the utmost importance.  Amber informed him that Lisa had gone ahead to the Temple of the Lion, located high atop a bluff overlooking the valley nearby.  She also commented that the situation must be pretty urgent for Lisa to be waiting on the Traveler’s assistance as opposed to the other way around; it was usually quite difficult to motivate Lisa to action.
+
+As for Paimon, well—she didn’t really have any plans besides sticking alongside the Traveler, but a quick slice of Fisherman’s Toast certainly wouldn’t go unappreciated.  She dug through her ethereal bag of tricks and trinkets and pulled out a surprisingly fresh-looking piece.  It vanished before Aether could question the food-keeping abilities of Paimon’s magical inventory system.
+
+After a quick debrief of sorts, Amber gave a jaunty wave to the two traveling companions and jogged off down the path to the north alone, towards Mondstadt.  The sun was creeping towards the horizon and the afternoon shadows were slowly beginning to lengthen.  If Aether wanted to reach the next temple before sundown, he’d have to muster some energy.
+
+Without further deliberation, he sucked in a quick breath, gathered his thoughts, and set off to the south.  In the distance, Aether had spied an absolutely massive tree, its conical canopy casting an almost night-like shadow upon the ground, despite the presence of the dazzlingly bright afternoon sunlight.  On the shadow-draped hill beneath the silent green giant was another of those god statues that they had encountered earlier… “Statues of Seven,” Paimon had called them.  Earlier, Aether had gained the power of Anemo from the first Statue he had paid his respects to, so he wondered if being acknowledged by this statue would carry any added benefit.  It was worth a shot.
+
+As Aether and Paimon joined the path leading to the tree-topped hill known to Mondstadters as “Windrise,” they stumbled upon a fellow clad in the armor of the Knights of Favonius regulars.  The brown-haired lad looked no older than his mid-twenties, and upon seeing the two travelers approach, he dropped his right arm out rigidly while tucking his left behind his back, in the traditional form of the Favonius salute.  Despite his rigid posture and crisp movement, when he spoke, his manner of speech betrayed an apparent lack of confidence.
+
+“I’m, uh, on an exploratory reconnaissance mission,” he stammered out, before remembering his duty as a Knight.  “Do you need help with anything?”  He followed up with the offer of assistance, hoping to recover a bit of his decorum.
+
+Aether looked him up and down before shaking his head and pointing out dryly, “I don’t think I’ve seen you in the city before.  Who are you?”
+
+The young man chuckled earnestly before answering, his face beaming with pride, “Oh, you wouldn’t have!  I’m Godwin, and I belong to an elite squadron of the Knights of Favonius, hand-picked and reporting directly to Grand Master Varka himself.”  
+
+Aether recalled Jean’s title as “Acting Grand Master” and her explanation as to the actual Grand Master’s absence.  “Varka?  Who’s that?”
+
+“He is the current Grand Master of the Knights of Favonius.  Of all the people in Mondstadt, he is the most deserving of our trust and admiration, and that’s not an overstatement.  I am sure my fellow knights share my opinion.  For senior knights like us, there is nothing more glorious than to accompany the Grand Master himself on an expedition.”  Here Godwin’s ego started to swell a bit.  “And I get to be part of just such a glorious expedition!  Our job is to be out there on the front line, defending Mondstadt.  We are always called out on top-priority missions, so we hardly have time to hang about in the city.”  He paused, suddenly looking a little sheepish.  “Speaking of which, have you ever met a girl named Glory?”
+
+Aether glanced around, looking for the “elite squadron” that Godwin had spent the last few moments praising.  He ignored Godwin’s question when he realized that the sole Knight in front of him was the expedition party… at least, as far as Aether could see.  “Where’s the rest of the expedition party?”
+
+“That’s what I wanna know, too!”  Godwin began to trip over his words in embarrassment.  “I, you see, the thing is…”  The forlorn Knight sighed heavily.  “Forget it, I’m past the point of trying to save face.  As Grand Master Varka’s expeditionary party was getting ready to leave Mondstadt, I... I lost a keepsake from Glory and then fell behind when they set off.  So now, as you can see, I’ve lost both the keepsake and the expedition party.  I can’t bring myself to go crawling back to Glory like this.”
+
+Aether crossed his arms and raised an eyebrow in a bit of scolding body language.  Godwin picked up on the context and dropped his head in shame.  “If you want to laugh at me, go ahead.  A little laughter might make things more bearable.”
+
+Paimon almost pitied the young man, at least, until she remembered that he was supposed to be an “elite” Knight of Favonius.  Aether chose not to embarrass Godwin any further, and finally got around to inquiring about the girl Godwin had mentioned before.
+
+Godwin’s mood brightened instantly as he gushed, “Glory is the girl I love!  She likes sitting on a bench, listening to the sound of the wind, and feeling the warmth of another body next to hers.”  Paimon flinched a little at the oddly sensual nature of that phrase.  Godwin turned beet red in embarrassment.  “Th-that’s what she said, anyway.  If you see her around the city, please, uh…”  Godwin’s mind, torn between embarrassment over losing track of his Grand Master’s party, and embarrassment from gushing about his crush to a perfect stranger, completely shut down at this point.  “Never mind, there’s no need to bother you.”
+
+Aether shrugged flippantly.  Given Godwin’s self-proclaimed status as an elite Knight, Aether was struggling to feel all that sympathetic for guy.  He pointed up and down the path Godwin had been treading.  “So, now that you’ve lost your party, you’ve just been patrolling around Mondstadt?”
+
+Godwin tried to defend himself.  “So far, I’ve taken care of quite a few hilichurls and slimes, but there’s always more of them.  They’ve been appearing more frequently of late.  I cannot allow them to get any closer to Mondstadt.  My lover Glory is…”  Aether sighed a bit too audibly, and Godwin sensed he was being a bit of a bore.  There was no point troubling this random outlander with his romantic and military woes, was there?  “No, it’s nothing,” he sighed once more.  “Thanks for listening to me.  Stay safe on your travels.”
+
+Aether nodded shortly in salute before briskly setting off towards Windrise.  Paimon floated next to him as they walked, wearing a rather amusingly befuddled expression.  “Well, Godwin was certainly a bit of an odd fellow, wasn’t he?” she wondered aloud.
+
+Mondstadt may have its share of odd people, but it was certainly a verdant land of beauty, Aether thought to himself.  As the pair walked, they marveled at the imposing gray cliffs that formed the perimeter of the Windrise valley.  Cliffside paths and trails meandered through breaks in the towering stone faces, whose tops were blanketed in a verdure velvet of grass and brush.  Another imposing column from one of the many ubiquitous Mondstadt ruins graced one such cliffside, and sitting patient and foreboding behind another was the great mist-shrouded shadow of Dragonspine.
+
+The hulking form of the great tree at Windrise began to loom large in their vision as they approached.  Aether could see from up close that the tree was tens of meters tall, easily as tall as some of the greater windmills within Mondstadt City.  The girthy trunk was about as wide as a windmill’s base, too; radiating out vast tendrils of roots an incredible distance in every direction.  The Traveler’s awe was soon cut short by a shout of surprise from Paimon.
+
+“Traveler, look!  It's one of those consolidated wind thingies!”  Paimon pointed a tiny finger at a floating object sitting just above a small rock outcropping to the left of the path.  It was unlike anything Aether had seen in Teyvat thus far, and it positively radiated elemental energy.  Yet, it didn’t seem to be of the elements itself, like perhaps a slime would be.
+
+The object appeared to be an opaque, gem-like aquamarine orb, engraved upon as though it were glass with the universally understood symbol of Anemo: a series of spread wings over an inverted triangle amulet.  Surrounding this sparkling orb were two crystalline feathers of similar color, which rotated opposite the gem nestled between them.
+
+Aether stepped up onto the ledge, reaching out to grab the object, which emanated a shimmering, breezy sound, as though wind were whipping through and around it.  Before he could get a hold of it, however, it congealed into an ethereal orb of turquoise light, swirling around him and whipping up a small current of air about him as it did so.  With a gentle swish, it vanished from sight, leaving the Traveler feeling about the same as he had before.  He looked inquisitively back at Paimon; shouldn’t there have been more fanfare from collecting such an obviously precious trinket?  Maybe he should feel more powerful or more capable?
+
+Paimon took note of his curious look, and glanced over at the great tree at Windrise, beneath which sat another of the Statues of Seven that Aether had spied earlier.  “It's a Statue of The Seven!  Let's make an offering and see if the gods respond!”  Aether nodded, jumped down from the ledge and strolled calmly up the ruined steps to the stone tableau upon which the Windrise Statue of Seven sat.
+The Traveler placed his hand against the bronze emblem at the statue’s base, just as he had at Starfell Lake.  He waited for a momentous and breathtaking increase in power, or perhaps some greater understanding of the mysteries of the universe… but none came.  Instead, he felt himself slightly more energized, and perhaps just a bit more acutely aware of the Anemo elements swirling through the great leafy canopy of Windrise.  He almost felt disappointed, but he was unsure why.
+
+“Can you feel the blessings of The Seven?” Paimon asked him.  “In Mondstadt, people refer to the consolidated wind as Anemoculi.  They're called this because they can be fitted into the statue's eyes.”  Aether glanced upwards, taking note of the short-statured figure enshrined in stone.  Each of its eyes were no larger than a serving spoon, but the Anemoculus he had collected earlier was quite a bit larger.  He struggled to fathom how such a fantastical process of shoving the Oculi into the statue’s eyes would have gone.  Paimon ignored the physical impossibilities of her tale and continued explaining.
+
+“Some fairy tales say the statues' eyes originally had gems that were taken by swallows.  But Anemoculi never had a physical form from the start.  People with Visions collect them to offer to the statues in exchange for blessings.  Unlike others with powers, you don't have a Vision. But then, the rules of this world don't apply to you anyways, so…”  Paimon trailed off, unsure of how Teyvat’s rules did apply to the Traveler.  She shook free from her theorizing and said, “Anyway, keep offering Anemoculi, and maybe you'll receive more blessings!”
+
+Aether tore himself away from staring at the statue in disappointment, and continued up towards the base of the Windrise tree, to get a better view of the path towards where he had been told Lisa was waiting for him.  As he crested the small knoll at the base of the tree, he spotted a delicate blue wisp floating aimlessly only meters away.  It almost appeared to be a giant bee of sorts, as it had a thorax-like body and a round, horned head with a single dazzlingly white eye in its center.  The eye had no pupil, so Aether couldn’t quite tell if the creature was looking anywhere or doing anything in particular.
+
+As he approached, the creature suddenly turned away from him, making a beeline for the river shallows that lie ahead.  Aether stopped abruptly, wondering if he had startled the aery being, causing it to flee.  As he stopped, however, the fleeing wisp also stopped.  Aether looked again to the Best Guide in Teyvat.  Paimon had certainly heard of this creature, known to Teyvatians as a “Seelie,” but had never encountered one herself.  She explained to Aether that such heavenly-looking beings could be found scattered all across Teyvat, and that travelers who escorted the Seelie to their destinations were often rewarded handsomely.
+
+This particular Seelie was already on Aether’s intended path to Lisa’s known whereabouts, so he decided to follow it, and see where its destination lie.  They crossed the shallows ahead of them and turned slightly to the south after passing more of the ever-present Mondstadt ruins.  As they turned the corner, the Seelie stopped above a small stone pile, where it hovered, seemingly waiting for the pair to approach it.
+
+As the stone pile came into view, Aether realized it was a small statuesque pedestal, with a sheared-off top and eroded engraved base.  It certainly must have been a rather majestic little piece when it was in its prime, he thought.  When the traveling companions approached the pedestal, the Seelie surprised them both by abruptly merging with it, leaving behind nothing more than an eerie ethereal blue flame cradled in the broken statue’s top, which gave the pedestal a closer resemblance to a torch than a statue. 
+
+The short journey with the mysterious azure Seelie suddenly over, Aether glanced up towards his intended destination.  At the peak of a series of bluffs dominating the horizon ahead stood another Temple of the Four Winds, and Aether could just make out the engraved stone crest that sat as the cornerstone of the temple’s great doorway.
+
+He was beginning to contemplate a rather grueling rock-climbing expedition to the top of the bluffs when he caught sight of a set of squat ruined arches on a lower plateau just up the path.  In the center of this plateau, a towering column of wind had burst forth from the ground, rising hundreds of meters into the sky.  The wind current hadn’t been visible before, so it must have been in response to the Seelie reaching its miniature throne just moments ago.  Aether made a mental note that following Seelie could open new paths for him in the future, if he was careful to keep an eye out for them.
+
+For now, Aether trudged up the worn trail winding its way through the tall grass south of Windrise.  This trail was certainly less worn-in than the previous ones, so it must have been some time since travelers or adventurers had made their way here.  This fact surprised him, especially given what he saw at the top of the trail.
+
+The short collapsed ruins that he had seen from below encircled a sunken ceremonial stone altar in the middle of the grassy court.  The various destroyed arches and columns must have once been part of a rather impressive structure that surrounded the altar, but now were no more than short daggers of cobblestone jutting out of the earthen grounds at odd angles.  From the center of the sunken altar rose the column of wind that Aether had seen activate earlier… and upon staring straight up, he couldn’t quite determine where it ended.
+He bet it would beat climbing the vertical cliff adjacent, however.  Just as Amber had before him, Aether threw himself determinedly into the swirling updraft, willing his gliding wings outward.  The tumultuous breeze caught underneath his wings and sent him skyward at a rather alarming pace.  Paimon was nearly left behind, except that she was able to throw her tiny hands around Aether’s ankle at the last possible second, holding on dearly to avoid being tumbled away as she had before during their encounter with Stormterror.
+They continued to rocket upwards until, at last, the winds hovered them dozens of meters above the tallest nearby cliff.  Aether glanced around at the breathtaking view, throwing a momentary look over his shoulder back at Windrise… they were well above the giant tree now, and despite its gargantuan spread, it certainly looked smaller from up here.
+
+Paimon caught sight of Lisa standing at the base of the temple steps, just a short ways past the edge of the smallest of the three nearby bluffs.  Aether nodded, and drifted down to meet up with the purple-garbed mage.  Lisa gave a gentle, elegant wave before greeting the Aether and Paimon warmly.
+
+“Hey cuties, you're going to help me out too? How kind of you.”  Lisa seemed all to eager to shovel off her sudden increase in workload onto her new assistants.  Aether was curious, however.
+
+“Why would a librarian be at the ruins?” he asked skeptically.  Lisa didn’t strike Aether as the “fieldwork” type of mage, so seeing here this far away from Mondstadt City gave him pause.  Lisa deflected his skepticism with a wry smile.
+
+“Hmm... Good question.  Well, because Jean trusts me, so you should as well.  Don't hesitate to come to me if you need anything.  But, basically, I’m here to handle things other than those which require brawn…” she paused for a moment, glancing upwards absentmindedly before finishing,  “... or brains.”  Paimon seemed unconvinced by her rather vague explanation.
+
+“So what does that even leave?” she asked, visibly frustrated with Lisa’s evasiveness.
+
+Lisa ignored Paimon’s momentary outburst, and concluded her minimalist strategy briefing.  “Let's get this temple back to its normal state, so I can be a little less... tense.  Even just standing out here, the disturbance of the elemental flow inside makes me uncomfortable.  Come along.”
+
+Lisa spun on her heel, the exquisite brass and iron lantern hanging from her hat tip jangling as she did.  Aether could just make out a tiny, delicate purple flower within the lantern.  Purple and gold certainly fit Lisa’s sophisticated mage aesthetic; her stilettoed feet on the uneven ground certainly did not.  Despite her rather ineffective choice of adventuring gear, Lisa was graceful and agile on her feet, cresting the top of the short stairway in but a few steps.  She turned to face the Traveler momentarily, her hand placed against the doorway leading to the Temple of the Lion.  She smiled with a motherly, reassuring expression before turning and running into the starry, abyssal void just beyond the door.
+
+Paimon and Aether were but a step behind.
+
+How long had it been?  One minute?  An hour?  A near-eternity?  Aether couldn’t tell.  Just as with the previous temple they had visited with Amber, the entryway was a portal to nothingness that just lingered on and on…
+
+… There’s the ground.  With a series of gentle pats, the party’s feet came into contact with yet another derelict temple ruin path.  Aether and Paimon glanced around in befuddled awe; despite having already visited the Domain within Temple of the Falcon, there was still something so incredibly otherworldly about Domains and the space they inhabited.
+
+This particular Domain appeared to be open to the infinite night sky, the iridescent wisps of an aurora permanently painting the heavenly canvas.  A never-ending expanse of rolling hills stretched to the horizon, and upon them sat a series of crumbled towers and labyrinths.  In that regard, the two Domains the travelers had thus experienced were alike.
+
+Lisa took in her surroundings in a single glance; she didn’t seem particularly impressed nor intimidated.  Her usually coy demeanor had been replaced with a cold, analytical determination. Lisa sighed at the sight of their destination across a vast chasm.
+
+“I guess I could give this a go.”  Lisa’s eyes locked onto a series of floating platforms hovering just in front of and at the same elevation as the entrance to a towering monolithic keep.  The intimidatingly tall stone structure was draped in red banners and lit by crystalline blue lanterns.
+
+Lisa pointed to the bannered keep.  “I knew it. There is a strong elemental energy coming from deep within this temple.  Paimon, are you able to float across?”  Aether’s traveling companion took one glance at the incredible crevasse between the platform they were on and the floating platforms ahead, and shook her head unenthusiastically.
+
+“Can't do much even if she does,” she answered in the third person.  Aether humorously remembered Paimon’s wild tumbling from Stormterror’s wings and the wind current they had used to get here earlier, and realized that assigning such a strenuous task to Paimon was never going to work.  Lisa apparently reached the same conclusion.
+
+“Good point. We'd better start looking for a way to get up there then.”  Her gaze fell upon a column of rising air just across a bridge to their left; the column ended perfectly at the height of a corridor leading away from where they had entered the domain.  “Let's ride this wind current, shall we?”
+
+Aether had slightly misjudged Lisa.  In addition to possessing an agile mind, she was fleet of foot, as well, nimbly throwing herself into the wind current and soaring via her glider to the upper level.  Aether and Paimon stayed close behind.
+
+At the top, the corridor opened into a dark, torchlit chamber, within which sat a Door of Resurrection similar to the one at the Temple of the Falcon.  An angular stone and brass cube rested to the left of one of the great doorways common to these sorts of temples; Aether assumed that it must operate the door, just as the one previously had.  He rested his hand on the bronze indent, and in response to his Anemo power, the door slid open with a dusty rumble.
+
+In the corridor beyond, a lone miniature Pyro slime had either made its home or gotten seriously lost.  Regardless, a fired-up Lisa was certainly not going to let any monster or creature stand in her way.
+
+“Leave it to me,” she asserted, sparks of purple lightning arcing between the fingers of her outstretched hand.  Barely a moment had passed when a cracking jolt of lightning bolted from her fingertips and straight into the helpless Pyro slime.  Pyro and Electro met in a burst of energy that terminated in a fireball and a thunderclap loud enough to startle Lisa’s companions.  Neither electricity nor flame remained to mark the Pyro slime’s unfortunate previous existence.
+
+Paimon thought that an unfettered bolt of lightning was perhaps a bit overkill for such a small creature, but everyone loves a good explosion, and Paimon had to admit that the detonation was pretty satisfying.  Lisa huffed in satisfaction before leaping up the steps to the exit doorway.  
+
+The next chamber was larger and brighter-lit than the last, and there was notably an absence of living, flaming globules of slime.  In the center of the room sat a lone Elemental Monument.  This one was practically identical to the one they had encountered with Amber at the Temple of the Falcon, with one notable exception.  Instead of the symbol of Pyro, emblazoned between the wings of the monument was the Electro symbol, which resembled three curved dagger-like lighting bolts circulating around a central point.  Aether noticed that the purple of the Electro emblem was remarkably similar to the purple of Lisa’s dress and blouse; or perhaps it was the other way around?
+
+“It's an Electro Monument,” Lisa pointed out.  “No wonder. Let me try to activate it with a bit of Electro power.  Stand back, sweeties.”  She twirled once around, branches of arcing electricity stretching away from her body as an Electro rune took shape in front of her.  Only a second or so later, and from the center of the completed rune erupted an enormous bolt of violet lightning.  Snaking filaments of static electricity arced from the monument as a warm amethyst glow filled the monument as the door across the room lumbered open.
+
+Another chamber, this one missing its ceiling, could be seen just across another bridge past the door that had just given way.  In contrast to the previous chambers, this one had a sunken central floor into which had settled a tremendous puddle of water.  Standing guard over a singular wooden chest in the middle of the room were several Hilichurl fighters and archers.  Upon seeing them, Lisa’s eyes shone with a sadistic glee.
+
+“When it comes to wet enemies, I've got them covered,” she boasted, raising one hand to the heavens.  Aether drew his sword to assist the mage in defeating the Hilichurls.  After all, weren’t mages traditionally poor combatants?  As Aether wondered about Lisa’s fighting capabilities, a violet haze began to descend upon the room.  Paimon glanced at the Knights of Favonius librarian and her eyes widened as she watched snapping tendrils of ferocious current begin to gather in Lisa’s raised hand.  Aether stopped himself short of the puddle of water, sensing that entering the liquid would only result in his getting barbecued by a bolt from the blue.
+
+The Hilichurls drew their weapons upon seeing Lisa rush them, but they too, were mesmerized as they watched the growing orb of pure Electro take shape above the talented Mondstadt mage.  Their awe and wonder was cut short by a series of devastating thunderbolts descending from the vast heavens above.  Each individual strike found its mark, and each Hilichurl writhed in agony as the current jumped between the soaked creatures.  Moments later, and naught remained but a fluttering cloud of ash that rapidly dispersed into the breeze.
+
+Aether glanced down at the water lapping at his feet and saw tiny arcs of voltage hopping to and fro across the surface.  It seemed that Lisa would be joining Amber on the list of folks “best not disturbed nor underestimated.”  Apparently Lisa’s coquettish personality hid a rather dangerous temperament beneath.
+
+She saw Paimon’s and Aether’s shocked expressions, and quickly herself.  “Chain lightning can be set off between Electro-charged opponents.  The electrical discharge caused by friction is only a little less shocking than love at first sight.”  Okay, maybe her coquettish personality and sadism shared a room in her head.
+
+The floating platforms the group had seen earlier lay just beyond a raised balcony to the right; another convenient wind current led to the ledge.  Lisa was quick to move on from her “moment.”
+
+“Oh, another wind current. Let's ride it up from here.”  Aether and Paimon followed right behind; as they landed on the upper plateau, a loud metallic clinking drew Aether’s attention to a rather bulky necklace swinging about Lisa’s neck.
+
+He pointed to it and asked, “Wouldn’t it be easier to fight without the hat and jewelry and everything?  Isn’t that necklace too bulky to wear when adventuring through a place like this?”
+
+“This?” she asked, gently grabbing at the pendant.
+
+Aether nodded.  “What even is that?  The symbol on it looks the one we saw on the Electro Monument earlier.”
+
+“Oh, you want to know about this gem?”  Lisa paused, genuine confusion crossing her face.  “You're kidding... You're seriously asking?”  Aether nodded again, more firmly this time for emphasis.
+
+“This is a Vision,” she explained slowly, as if explaining a difficult concept to a child.  “It's used by the chosen to draw on elemental powers.  In terms of mysticism, I suppose you could call it a ‘magical lightning rod.’
+
+While she spoke, Lisa deftly hopped from floating platform to floating platform, slowly gaining height as she did so.  With a final leap, she landed on the penultimate platform, which served as an elevator to bring them to the height of what must be the final chamber of the Domain.
+
+Lisa spotted the inquisitiveness in Aether’s expression and sounded suddenly exhausted, and not from the exertion of leaping between platforms.
+
+“What?  You've never seen a Vision?  Just where exactly are you from...?”  A Vision, Aether wondered quietly.  He had seen Amber wearing a similar accessory on her hip when adventuring with her, but he hadn’t thought much of it.  Now, thinking back, he realized that Amber’s Vision was red and emblazoned with the Pyro emblem.  That explained her abilities in using fire arrows and explosive stuffed bunny dolls.
+
+Lisa seemed absolutely flabbergasted that a Teyvatian existed who was unaware of Visions, the Gods, or the Elements, in general.  She queried the Traveler,  “Are you a Hilichurl with some level of reasonable intelligence?”  Aether had too little time to be offended before Lisa corrected herself automatically.  “No, I doubt it. After all, Hilichurls aren't exactly known for their smarts.  And you... you'd more or less qualify to be a magister's apprentice.”
+
+Lisa continued to mutter wondrous theories about Aether’s intelligence as the group climbed the stairs to the final chamber.  This chamber was devoid of furnishings, enemies, or anything else of note, save for a single Dragon’s Breath crystal resting in the center of the room.
+
+Lisa jolted herself back to reality, and instructed Aether, “Break it and we can head home and relax.”  She sighed, exasperated.  “The thought of putting my feet up and relaxing has me all fired up!”  Aether acknowledged her order and swung his dull blade down onto the tip of the mystical aquamarine stone.  Just as with its sibling in the Temple of the Falcon, the Dragon’s Breath disintegrated into a shower of dust and shards, leaving nothing behind except for a gentle wisp of wind.  A few seconds later, and even that had disappeared and left the chamber silent and empty.
+
+Lisa began to ruminate again.  “Dragon of the East, Lion of the South, Wolf of the North, Falcon of the West…  They are the Four Winds of Mondstadt, affiliated with Barbatos, the God of Anemo.  The Dragon of the East, Stormterror — its real name, is Dvalin, although most in Mondstadt seem to have forgotten that in all this ‘Stormterror’ business.  So now you know why Dvalin is only able to channel three of the Four Winds' power.”  Lisa paused for dramatic effect, but upon receiving blank looks from Aether and Paimon, she finished, “Because it has been consuming itself from the beginning.”
+
+Aether rested his sword-carrying hand against his hip as he ran through is own theories internally.  “But why would it go to such lengths?” he inquired.
+
+Lisa shrugged ambivalently.  “Because of hatred, I presume.”  This made no sense to Paimon, given the history lesson she had just received.  After all, if Dvalin was one of the Four Winds, wouldn’t it have been tasked with the protection and preservation of Mondstadt and all who reside within?
+
+“Hatred...?” she asked quizzically.
+
+Lisa closed an open hand, in emphasis, and held up her closed fist.  “Yes, hatred for Mondstadt.  Hatred drove it to become something more powerful than the wind itself — to become Stormterror.”
+
+Paimon vocalized her own personal theory.  “But why would one of The Four Winds hate the city it was supposed to protect?”  None of Lisa’s story made sense to Aether or Paimon.  Deities, demigods, and other great protectors and guarantors rarely withdrew promises of protection or prosperity.  Hatred was not an emotion to suddenly rush up from within without a source; it had to have been built or gathered over time.
+
+Lisa didn’t seem confident enough to answer.  She looked down, almost in shame, before answering,  “As a child of Mondstadt, it's something that's really hard to say aloud.  Here, take this tome that I’ve always carried with me. It's a very old story from more than a century ago.  Perhaps it will have better answers to your questions.”
+
+Breeze Amidst the Forest Supplement: The Dragon Tome was scrawled across the well-worn turquoise cover of the volume.  Any book titled so directly as “The Dragon Tome” must have more information on dragons, and hopefully as a consequence, more information on Dvalin.  Aether would have to give the book a read when they reached their lodging for the evening.
+
+There was no reason to loiter about the Domain any longer.  Ahead of the trio was another corridor bathed in abyssal darkness; it would serve as their vessel to return “home”.  Aether and Paimon led the way into the pitch black void, Lisa following behind much more meekly and hesitantly than before, her confidence visibly shaken.
+
+Aether returned to consciousness with a start; a quick look around placed him at the base of the steps leading up to the Knights of Favonius Headquarters.  How had they ended up so far from where they had entered the Temple of the Lion?
+
+Aether was too tired to contemplate the complexities of travel to and from domains, but Lisa was all too excited to explain.  According to her research, Vision wielders were capable of willing themselves to Domains, teleporters, and Statues of Seven of their choosing.  All that was required was a will, and the various structures dotted around Mondstadt provided the way.  Since Aether, Paimon, and Lisa had all be yearning for a return to civilization, the wondrous marvel of teleportation had deposited them next to the teleporter mounted inside the belltower of Favonius HQ, albeit at the base as opposed to within the belfry itself.
+
+Lisa led the way into Headquarters, holding the door for Aether and Paimon as they wearily entered.  Afternoon shadows were slowly giving way to darkness as evening arrived quietly upon the breeze.  The inside of Headquarters had been brightly lit with gas lamps throughout; the dazzling brightness made for a homey, comfortable environment, and one that both Lisa and her comrade Jean enjoyed working in.
+
+Lisa was about to part ways with the two travelers when she paused and turned to Aether.  “That reminds me.  In addition to being a rather prodigious mage, I just so happen to be the librarian for our humble Favonius library.  Do you need anything before I retire for the evening, cuties?  I would very much like to rest my weary legs.”
+
+Aether pondered for a moment, hand braced against his chin as if to keep his heavy, theory-laden head atop his tired, slumped shoulders.  “I’d like to know more about some of the monsters and creatures we encountered recently,” he answered rather pragmatically.
+“The monsters out in the wild?  We’ve got many resources here in the library.  Making good use of elemental advantages is the key to winning any battle.  By the way, would you be interested in having a part-time job here?  We need people to…” Lisa hesitated awkwardly.  “We need people for doing… We just need more people,” she blurted out, uncharacteristically flustered.
+
+“More people for fighting Stormterror, you mean?” Aether inquired.  “How do we even plan to fight Stormterror?”
+
+Lisa’s flustered reaction gave way to a weary, downcast expression.  “A way to fight against Stormterror…  I’m sorry, but there’s no way to do it alone.  Judging by the level of its Anemo power, it’s definitely not an ordinary creature.  I could teach you some elemental basics, so you’ll have an idea of what I’m talking about.  You could also check Jean’s office for some books on using the Elements in combat.  There’s also a few other books you might find informative there.”
+
+Aether nodded his thanks, and gave a momentary glance at an ornate wooden clock, hung on the wall between multiple sets of doors leading to the library.  While the evening would certainly begin to wear on, he needed to enhance his understanding of Mondstadt, its creatures, and the elements.  Without that knowledge, it was inevitable that he would continue to require the assistance of fighters such as Amber or Lisa to keep him out of serious trouble.
+
+Paimon also glanced at the clock, her stomach giving a hearty rumble as she wondered about the possibilities of the evening meal.  Aether supposed that a meal and some “light reading” could go hand-in-hand.  A brief trip to Jean’s office for study materials, and then he could treat Paimon to a sticky honey roast… a treat certain to satisfy after an incredibly long day of adventuring, fighting, and misunderstanding.
 
 # Crash Course
 Kaeya will accompany you to explore the temple of the Wolf.
